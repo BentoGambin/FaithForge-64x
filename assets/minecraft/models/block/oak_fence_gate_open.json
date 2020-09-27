@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_fence_gate_open_custom",
+  "textures": {
+    "side": "minecraft:block/stripped_oak_log",
+    "end": "minecraft:block/stripped_oak_log_top"
+  }
+}

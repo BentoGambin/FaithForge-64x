@@ -1,0 +1,6 @@
+{
+    "parent": "item/template_leggings",
+    "textures": {
+        "leg": "mekanism:models/armor/hazmat_layer_2"
+    }
+}

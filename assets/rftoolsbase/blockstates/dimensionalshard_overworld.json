@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "": [
+            { "model": "rftoolsbase:block/dimensionalshard_overworld" },
+            { "model": "rftoolsbase:block/dimensionalshard_overworld", "x": 90, "uvlock":true},
+            { "model": "rftoolsbase:block/dimensionalshard_overworld", "x": 180, "uvlock":true },
+            { "model": "rftoolsbase:block/dimensionalshard_overworld", "x": 270, "uvlock":true },
+            { "model": "rftoolsbase:block/dimensionalshard_overworld", "y": 90, "uvlock":true},
+            { "model": "rftoolsbase:block/dimensionalshard_overworld", "y": 90, "x": 90, "uvlock":true},
+            { "model": "rftoolsbase:block/dimensionalshard_overworld", "y": 90, "x": 180, "uvlock":true},
+            { "model": "rftoolsbase:block/dimensionalshard_overworld", "y": 90, "x": 270, "uvlock":true},
+            { "model": "rftoolsbase:block/dimensionalshard_overworld", "y": 180, "x": 90, "uvlock":true},
+            { "model": "rftoolsbase:block/dimensionalshard_overworld", "y": 180, "x": 180, "uvlock":true},
+            { "model": "rftoolsbase:block/dimensionalshard_overworld", "y": 180, "x": 270, "uvlock":true},
+            { "model": "rftoolsbase:block/dimensionalshard_overworld", "y": 180, "uvlock":true },
+            { "model": "rftoolsbase:block/dimensionalshard_overworld", "y": 270, "x": 90, "uvlock":true},
+            { "model": "rftoolsbase:block/dimensionalshard_overworld", "y": 270, "x": 180, "uvlock":true},
+            { "model": "rftoolsbase:block/dimensionalshard_overworld", "y": 270, "x": 270, "uvlock":true},
+            { "model": "rftoolsbase:block/dimensionalshard_overworld", "y": 270, "uvlock":true }
+		]
+    }
+}

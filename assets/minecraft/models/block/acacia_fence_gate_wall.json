@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_fence_gate_wall_custom",
+  "textures": {
+    "side": "minecraft:block/stripped_acacia_log",
+    "end": "minecraft:block/stripped_acacia_log_top"
+  }
+}

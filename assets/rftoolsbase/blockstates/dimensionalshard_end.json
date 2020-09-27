@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "": [
+            { "model": "rftoolsbase:block/dimensionalshard_end" },
+            { "model": "rftoolsbase:block/dimensionalshard_end", "x": 90, "uvlock":true},
+            { "model": "rftoolsbase:block/dimensionalshard_end", "x": 180, "uvlock":true },
+            { "model": "rftoolsbase:block/dimensionalshard_end", "x": 270, "uvlock":true },
+            { "model": "rftoolsbase:block/dimensionalshard_end", "y": 90, "uvlock":true},
+            { "model": "rftoolsbase:block/dimensionalshard_end", "y": 90, "x": 90, "uvlock":true},
+            { "model": "rftoolsbase:block/dimensionalshard_end", "y": 90, "x": 180, "uvlock":true},
+            { "model": "rftoolsbase:block/dimensionalshard_end", "y": 90, "x": 270, "uvlock":true},
+            { "model": "rftoolsbase:block/dimensionalshard_end", "y": 180, "x": 90, "uvlock":true},
+            { "model": "rftoolsbase:block/dimensionalshard_end", "y": 180, "x": 180, "uvlock":true},
+            { "model": "rftoolsbase:block/dimensionalshard_end", "y": 180, "x": 270, "uvlock":true},
+            { "model": "rftoolsbase:block/dimensionalshard_end", "y": 180, "uvlock":true },
+            { "model": "rftoolsbase:block/dimensionalshard_end", "y": 270, "x": 90, "uvlock":true},
+            { "model": "rftoolsbase:block/dimensionalshard_end", "y": 270, "x": 180, "uvlock":true},
+            { "model": "rftoolsbase:block/dimensionalshard_end", "y": 270, "x": 270, "uvlock":true},
+            { "model": "rftoolsbase:block/dimensionalshard_end", "y": 270, "uvlock":true }
+		]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "variants": {
+        "": [
+             { "model": "block/dark_oak_leaves" },
+             { "model": "block/dark_oak_leaves_2" },
+             { "model": "block/dark_oak_leaves_3" },
+             { "model": "block/dark_oak_leaves_4" },
+             { "model": "block/dark_oak_leaves_5" },
+             { "model": "block/dark_oak_leaves_6" },
+             { "model": "block/dark_oak_leaves_7" },
+             { "model": "block/dark_oak_leaves_8" },
+             { "model": "block/dark_oak_leaves_9" },
+             { "model": "block/dark_oak_leaves_10" },
+             { "model": "block/dark_oak_leaves_11" }
+             ]
+    }
+}

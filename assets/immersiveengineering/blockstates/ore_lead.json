@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "": [
+            { "model": "mekanism:block/ore/lead" },
+            { "model": "mekanism:block/ore/lead", "x": 90, "uvlock":true},
+            { "model": "mekanism:block/ore/lead", "x": 180, "uvlock":true },
+            { "model": "mekanism:block/ore/lead", "x": 270, "uvlock":true },
+            { "model": "mekanism:block/ore/lead", "y": 90, "uvlock":true},
+            { "model": "mekanism:block/ore/lead", "y": 90, "x": 90, "uvlock":true},
+            { "model": "mekanism:block/ore/lead", "y": 90, "x": 180, "uvlock":true},
+            { "model": "mekanism:block/ore/lead", "y": 90, "x": 270, "uvlock":true},
+            { "model": "mekanism:block/ore/lead", "y": 180, "x": 90, "uvlock":true},
+            { "model": "mekanism:block/ore/lead", "y": 180, "x": 180, "uvlock":true},
+            { "model": "mekanism:block/ore/lead", "y": 180, "x": 270, "uvlock":true},
+            { "model": "mekanism:block/ore/lead", "y": 180, "uvlock":true },
+            { "model": "mekanism:block/ore/lead", "y": 270, "x": 90, "uvlock":true},
+            { "model": "mekanism:block/ore/lead", "y": 270, "x": 180, "uvlock":true},
+            { "model": "mekanism:block/ore/lead", "y": 270, "x": 270, "uvlock":true},
+            { "model": "mekanism:block/ore/lead", "y": 270, "uvlock":true }
+		]
+    }
+}

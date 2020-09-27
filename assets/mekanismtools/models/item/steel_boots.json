@@ -1,0 +1,6 @@
+{
+    "parent": "item/template_boots",
+    "textures": {
+        "boots": "mekanismtools:models/armor/steel_layer_1"
+    }
+}

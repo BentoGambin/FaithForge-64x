@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "": [
+            { "model": "mekanism:block/ore/uranium" },
+            { "model": "mekanism:block/ore/uranium", "x": 90, "uvlock":true},
+            { "model": "mekanism:block/ore/uranium", "x": 180, "uvlock":true },
+            { "model": "mekanism:block/ore/uranium", "x": 270, "uvlock":true },
+            { "model": "mekanism:block/ore/uranium", "y": 90, "uvlock":true},
+            { "model": "mekanism:block/ore/uranium", "y": 90, "x": 90, "uvlock":true},
+            { "model": "mekanism:block/ore/uranium", "y": 90, "x": 180, "uvlock":true},
+            { "model": "mekanism:block/ore/uranium", "y": 90, "x": 270, "uvlock":true},
+            { "model": "mekanism:block/ore/uranium", "y": 180, "x": 90, "uvlock":true},
+            { "model": "mekanism:block/ore/uranium", "y": 180, "x": 180, "uvlock":true},
+            { "model": "mekanism:block/ore/uranium", "y": 180, "x": 270, "uvlock":true},
+            { "model": "mekanism:block/ore/uranium", "y": 180, "uvlock":true },
+            { "model": "mekanism:block/ore/uranium", "y": 270, "x": 90, "uvlock":true},
+            { "model": "mekanism:block/ore/uranium", "y": 270, "x": 180, "uvlock":true},
+            { "model": "mekanism:block/ore/uranium", "y": 270, "x": 270, "uvlock":true},
+            { "model": "mekanism:block/ore/uranium", "y": 270, "uvlock":true }
+		]
+    }
+}

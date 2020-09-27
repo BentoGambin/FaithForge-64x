@@ -1,0 +1,6 @@
+{
+    "parent": "item/template_leggings",
+    "textures": {
+        "leg": "models/armor/diamond_layer_2"
+    }
+}

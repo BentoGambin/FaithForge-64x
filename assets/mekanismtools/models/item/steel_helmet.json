@@ -1,0 +1,6 @@
+{
+    "parent": "item/template_helmet",
+    "textures": {
+        "helmet": "mekanismtools:models/armor/steel_layer_1"
+    }
+}

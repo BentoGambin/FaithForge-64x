@@ -1,0 +1,6 @@
+{
+    "parent": "item/template_helmet",
+    "textures": {
+        "helmet": "mekanismtools:models/armor/osmium_layer_1"
+    }
+}

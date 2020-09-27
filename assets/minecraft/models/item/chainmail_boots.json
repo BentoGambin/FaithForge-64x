@@ -1,0 +1,6 @@
+{
+    "parent": "item/template_boots",
+    "textures": {
+        "boots": "models/armor/chainmail_layer_1"
+    }
+}

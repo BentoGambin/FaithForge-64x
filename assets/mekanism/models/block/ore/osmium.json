@@ -1,0 +1,7 @@
+{
+    "parent":"block/template_ore",
+    "textures": {
+        "stone":"block/stone",
+		"ore": "mekanism:block/osmium_ore_3d"
+    }
+}

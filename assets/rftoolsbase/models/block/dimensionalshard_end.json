@@ -1,0 +1,7 @@
+{
+    "parent":"block/template_ore_shard",
+    "textures": {
+        "stone":"block/end_stone",
+		"ore": "rftoolsbase:block/ores/dimensionalshard_ore_3d"
+    }
+}

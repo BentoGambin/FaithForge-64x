@@ -1,0 +1,7 @@
+{
+    "parent": "block/leaves_6",
+    "textures": {
+        "default": "block/spruce_leaves",
+        "all": "block/spruce_leaves_3d"
+    }
+}

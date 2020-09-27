@@ -1,0 +1,17 @@
+{
+    "parent": "block/orientable",
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [ 0, 135, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.40, 0.40, 0.40 ]
+        }
+    },
+    "textures": {
+		"particle": "block/pumpkin_side",
+        "top": "block/pumpkin_top",
+        "front": "block/pumpkin_side",
+		"down": "ctm/pumpkin/0",
+        "side": "block/pumpkin_side"
+    }
+}

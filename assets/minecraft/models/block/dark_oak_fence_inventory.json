@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/fence_inventory_custom",
+  "textures": {
+    "side": "minecraft:block/stripped_dark_oak_log",
+    "end": "minecraft:block/stripped_dark_oak_log_top"
+  }
+}

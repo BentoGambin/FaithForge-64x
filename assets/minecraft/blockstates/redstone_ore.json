@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/redstoneore1" },
+            { "model": "block/redstoneore2" },
+            { "model": "block/redstoneore3" },
+            { "model": "block/redstoneore4" },
+            { "model": "block/redstoneore5" },
+            { "model": "block/redstoneore6" }
+		]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "": [
+            { "model": "immersiveengineering:block/ore_aluminum" },
+            { "model": "immersiveengineering:block/ore_aluminum", "x": 90, "uvlock":true},
+            { "model": "immersiveengineering:block/ore_aluminum", "x": 180, "uvlock":true },
+            { "model": "immersiveengineering:block/ore_aluminum", "x": 270, "uvlock":true },
+            { "model": "immersiveengineering:block/ore_aluminum", "y": 90, "uvlock":true},
+            { "model": "immersiveengineering:block/ore_aluminum", "y": 90, "x": 90, "uvlock":true},
+            { "model": "immersiveengineering:block/ore_aluminum", "y": 90, "x": 180, "uvlock":true},
+            { "model": "immersiveengineering:block/ore_aluminum", "y": 90, "x": 270, "uvlock":true},
+            { "model": "immersiveengineering:block/ore_aluminum", "y": 180, "x": 90, "uvlock":true},
+            { "model": "immersiveengineering:block/ore_aluminum", "y": 180, "x": 180, "uvlock":true},
+            { "model": "immersiveengineering:block/ore_aluminum", "y": 180, "x": 270, "uvlock":true},
+            { "model": "immersiveengineering:block/ore_aluminum", "y": 180, "uvlock":true },
+            { "model": "immersiveengineering:block/ore_aluminum", "y": 270, "x": 90, "uvlock":true},
+            { "model": "immersiveengineering:block/ore_aluminum", "y": 270, "x": 180, "uvlock":true},
+            { "model": "immersiveengineering:block/ore_aluminum", "y": 270, "x": 270, "uvlock":true},
+            { "model": "immersiveengineering:block/ore_aluminum", "y": 270, "uvlock":true }
+		]
+    }
+}

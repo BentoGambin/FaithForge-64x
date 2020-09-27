@@ -1,0 +1,6 @@
+{
+    "parent": "item/template_boots",
+    "textures": {
+        "boots": "mekanismtools:models/armor/osmium_layer_1"
+    }
+}

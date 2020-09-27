@@ -1,0 +1,198 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 32],
+	"textures": {
+		"particle": "#leg"
+	},
+	"elements": [
+		{
+			"from": [8, 0, 6],
+			"to": [12, 9, 6],
+			"faces": {
+				"north": {"uv": [1, 10, 2, 14.5], "texture": "#leg"},
+				"east": {"uv": [1, 10, 1, 14.5], "texture": "#leg"},
+				"south": {"uv": [2, 10, 1, 14.5], "texture": "#leg"},
+				"west": {"uv": [1, 10, 1, 14.5], "texture": "#leg"},
+				"up": {"uv": [1, 10, 3, 10], "texture": "#leg"},
+				"down": {"uv": [1, 10, 3, 10], "texture": "#leg"}
+			}
+		},
+		{
+			"from": [8, 0, 10],
+			"to": [12, 9, 10],
+			"faces": {
+				"north": {"uv": [4, 10, 3, 14.5], "texture": "#leg"},
+				"east": {"uv": [1, 10, 1, 14.5], "texture": "#leg"},
+				"south": {"uv": [3, 10, 4, 14.5], "texture": "#leg"},
+				"west": {"uv": [1, 10, 1, 14.5], "texture": "#leg"},
+				"up": {"uv": [1, 10, 3, 10], "texture": "#leg"},
+				"down": {"uv": [1, 10, 3, 10], "texture": "#leg"}
+			}
+		},
+		{
+			"from": [8, 0, 6],
+			"to": [8, 9, 10],
+			"faces": {
+				"north": {"uv": [3, 10, 2, 14.5], "texture": "#leg"},
+				"east": {"uv": [3, 10, 2, 14.5], "texture": "#leg"},
+				"south": {"uv": [3, 10, 2, 14.5], "texture": "#leg"},
+				"west": {"uv": [3, 10, 2, 14.5], "texture": "#leg"},
+				"up": {"uv": [3, 10, 2, 14.5], "texture": "#leg"},
+				"down": {"uv": [3, 10, 2, 14.5], "texture": "#leg"}
+			}
+		},
+		{
+			"from": [12, 0, 6],
+			"to": [12, 9, 10],
+			"faces": {
+				"north": {"uv": [0, 10, 1, 14.5], "texture": "#leg"},
+				"east": {"uv": [0, 10, 1, 14.5], "texture": "#leg"},
+				"south": {"uv": [0, 10, 1, 14.5], "texture": "#leg"},
+				"west": {"uv": [0, 10, 1, 14.5], "texture": "#leg"},
+				"up": {"uv": [0, 10, 1, 14.5], "texture": "#leg"},
+				"down": {"uv": [0, 10, 1, 14.5], "texture": "#leg"}
+			}
+		},
+		{
+			"from": [4, 0, 6],
+			"to": [8, 9, 6],
+			"faces": {
+				"north": {"uv": [2, 10, 1, 14.5], "texture": "#leg"},
+				"east": {"uv": [1, 10, 1, 14.5], "texture": "#leg"},
+				"south": {"uv": [1, 10, 2, 14.5], "texture": "#leg"},
+				"west": {"uv": [1, 10, 1, 14.5], "texture": "#leg"},
+				"up": {"uv": [1, 10, 3, 10], "texture": "#leg"},
+				"down": {"uv": [1, 10, 3, 10], "texture": "#leg"}
+			}
+		},
+		{
+			"from": [4, 0, 10],
+			"to": [8, 9, 10],
+			"faces": {
+				"north": {"uv": [3, 10, 4, 14.5], "texture": "#leg"},
+				"east": {"uv": [1, 10, 1, 14.5], "texture": "#leg"},
+				"south": {"uv": [4, 10, 3, 14.5], "texture": "#leg"},
+				"west": {"uv": [1, 10, 1, 14.5], "texture": "#leg"},
+				"up": {"uv": [1, 10, 3, 10], "texture": "#leg"},
+				"down": {"uv": [1, 10, 3, 10], "texture": "#leg"}
+			}
+		},
+		{
+			"from": [4, 0, 6],
+			"to": [4, 9, 10],
+			"faces": {
+				"north": {"uv": [3, 10, 2, 14.5], "texture": "#leg"},
+				"east": {"uv": [3, 10, 2, 14.5], "texture": "#leg"},
+				"south": {"uv": [3, 10, 2, 14.5], "texture": "#leg"},
+				"west": {"uv": [3, 10, 2, 14.5], "texture": "#leg"},
+				"up": {"uv": [3, 10, 2, 14.5], "texture": "#leg"},
+				"down": {"uv": [3, 10, 2, 14.5], "texture": "#leg"}
+			}
+		},
+		{
+			"from": [8, 0, 6],
+			"to": [8, 9, 10],
+			"faces": {
+				"north": {"uv": [0, 10, 1, 14.5], "texture": "#leg"},
+				"east": {"uv": [0, 10, 1, 14.5], "texture": "#leg"},
+				"south": {"uv": [0, 10, 1, 14.5], "texture": "#leg"},
+				"west": {"uv": [0, 10, 1, 14.5], "texture": "#leg"},
+				"up": {"uv": [0, 10, 1, 14.5], "texture": "#leg"},
+				"down": {"uv": [0, 10, 1, 14.5], "texture": "#leg"}
+			}
+		},
+		{
+			"from": [4, 9, 6],
+			"to": [4, 14, 10],
+			"faces": {
+				"north": {"uv": [0, 0, 0, 2], "texture": "#leg"},
+				"east": {"uv": [8, 13.5, 7, 16], "texture": "#leg"},
+				"south": {"uv": [0, 0, 0, 2], "texture": "#leg"},
+				"west": {"uv": [7, 13.5, 8, 16], "texture": "#leg"},
+				"up": {"uv": [0, 0, 0, 2], "texture": "#leg"},
+				"down": {"uv": [0, 0, 0, 2], "texture": "#leg"}
+			}
+		},
+		{
+			"from": [12, 9, 6],
+			"to": [12, 14, 10],
+			"faces": {
+				"north": {"uv": [0, 0, 0, 2], "texture": "#leg"},
+				"east": {"uv": [4, 13.5, 5, 16], "texture": "#leg"},
+				"south": {"uv": [0, 0, 0, 2], "texture": "#leg"},
+				"west": {"uv": [5, 13.5, 4, 16], "texture": "#leg"},
+				"up": {"uv": [0, 0, 0, 2], "texture": "#leg"},
+				"down": {"uv": [0, 0, 0, 2], "texture": "#leg"}
+			}
+		},
+		{
+			"from": [4, 9, 6],
+			"to": [12, 14, 6],
+			"faces": {
+				"north": {"uv": [5, 13.5, 7, 16], "texture": "#leg"},
+				"east": {"uv": [0, 0, 0, 2.5], "texture": "#leg"},
+				"south": {"uv": [7, 13.5, 5, 16], "texture": "#leg"},
+				"west": {"uv": [0, 0, 0, 2.5], "texture": "#leg"},
+				"up": {"uv": [0, 0, 2, 0], "texture": "#leg"},
+				"down": {"uv": [0, 0, 2, 0], "texture": "#leg"}
+			}
+		},
+		{
+			"from": [4, 9, 10],
+			"to": [12, 14, 10],
+			"faces": {
+				"north": {"uv": [10, 13.5, 8, 16], "texture": "#leg"},
+				"east": {"uv": [0, 0, 0, 2.5], "texture": "#leg"},
+				"south": {"uv": [8, 13.5, 10, 16], "texture": "#leg"},
+				"west": {"uv": [0, 0, 0, 2.5], "texture": "#leg"},
+				"up": {"uv": [0, 0, 2, 0], "texture": "#leg"},
+				"down": {"uv": [0, 0, 2, 0], "texture": "#leg"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [15, 0, 0],
+			"translation": [0, -0.5, -0.75],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [15, 0, 0],
+			"translation": [0, -0.5, -0.75],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_righthand": {
+			"translation": [-0.5, 0.5, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_lefthand": {
+			"translation": [1.5, 0.5, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"translation": [0, -2.5, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"gui": {
+			"rotation": [30, -135, 0],
+			"translation": [0, 0.75, 0],
+			"scale": [1, 0.9, 1]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 1, -2.05]
+		}
+	},
+	"groups": [
+		{
+			"name": "Leftleg",
+			"origin": [8, 8, 8],
+			"children": [0, 1, 2, 3]
+		},
+		{
+			"name": "Rightleg",
+			"origin": [8, 8, 8],
+			"children": [4, 5, 6, 7]
+		}, 8, 9, 10, 11]
+}

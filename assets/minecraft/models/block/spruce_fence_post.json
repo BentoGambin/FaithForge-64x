@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/fence_post_custom",
+  "textures": {
+    "side": "minecraft:block/stripped_spruce_log",
+    "end": "minecraft:block/stripped_spruce_log_top"
+  }
+}

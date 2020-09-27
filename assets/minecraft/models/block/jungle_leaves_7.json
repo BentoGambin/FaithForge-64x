@@ -1,0 +1,7 @@
+{
+    "parent": "block/leaves_7",
+    "textures": {
+        "default": "block/jungle_leaves",
+        "all": "block/jungle_leaves_3d"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/diamond_ore" },
+            { "model": "block/diamond_ore", "x": 90, "uvlock":true},
+            { "model": "block/diamond_ore", "x": 180, "uvlock":true },
+            { "model": "block/diamond_ore", "x": 270, "uvlock":true },
+            { "model": "block/diamond_ore", "y": 90, "uvlock":true},
+            { "model": "block/diamond_ore", "y": 90, "x": 90, "uvlock":true},
+            { "model": "block/diamond_ore", "y": 90, "x": 180, "uvlock":true},
+            { "model": "block/diamond_ore", "y": 90, "x": 270, "uvlock":true},
+            { "model": "block/diamond_ore", "y": 180, "x": 90, "uvlock":true},
+            { "model": "block/diamond_ore", "y": 180, "x": 180, "uvlock":true},
+            { "model": "block/diamond_ore", "y": 180, "x": 270, "uvlock":true},
+            { "model": "block/diamond_ore", "y": 180, "uvlock":true },
+            { "model": "block/diamond_ore", "y": 270, "x": 90, "uvlock":true},
+            { "model": "block/diamond_ore", "y": 270, "x": 180, "uvlock":true},
+            { "model": "block/diamond_ore", "y": 270, "x": 270, "uvlock":true},
+            { "model": "block/diamond_ore", "y": 270, "uvlock":true }
+		]
+    }
+}

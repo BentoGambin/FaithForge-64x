@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "": [
+            { "model": "rftoolsbase:block/dimensionalshard_nether" },
+            { "model": "rftoolsbase:block/dimensionalshard_nether", "x": 90, "uvlock":true},
+            { "model": "rftoolsbase:block/dimensionalshard_nether", "x": 180, "uvlock":true },
+            { "model": "rftoolsbase:block/dimensionalshard_nether", "x": 270, "uvlock":true },
+            { "model": "rftoolsbase:block/dimensionalshard_nether", "y": 90, "uvlock":true},
+            { "model": "rftoolsbase:block/dimensionalshard_nether", "y": 90, "x": 90, "uvlock":true},
+            { "model": "rftoolsbase:block/dimensionalshard_nether", "y": 90, "x": 180, "uvlock":true},
+            { "model": "rftoolsbase:block/dimensionalshard_nether", "y": 90, "x": 270, "uvlock":true},
+            { "model": "rftoolsbase:block/dimensionalshard_nether", "y": 180, "x": 90, "uvlock":true},
+            { "model": "rftoolsbase:block/dimensionalshard_nether", "y": 180, "x": 180, "uvlock":true},
+            { "model": "rftoolsbase:block/dimensionalshard_nether", "y": 180, "x": 270, "uvlock":true},
+            { "model": "rftoolsbase:block/dimensionalshard_nether", "y": 180, "uvlock":true },
+            { "model": "rftoolsbase:block/dimensionalshard_nether", "y": 270, "x": 90, "uvlock":true},
+            { "model": "rftoolsbase:block/dimensionalshard_nether", "y": 270, "x": 180, "uvlock":true},
+            { "model": "rftoolsbase:block/dimensionalshard_nether", "y": 270, "x": 270, "uvlock":true},
+            { "model": "rftoolsbase:block/dimensionalshard_nether", "y": 270, "uvlock":true }
+		]
+    }
+}
