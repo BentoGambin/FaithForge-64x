@@ -2,6 +2,6 @@
     "parent":"block/template_ore",
     "textures": {
         "stone":"block/stone",
-		"ore": "mekanism:block/uranium_ore_3d"
+		"ore": "mekanism:block/copper_ore_3d"
     }
 }
