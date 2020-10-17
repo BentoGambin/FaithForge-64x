@@ -6,4 +6,5 @@ Mod support list comming soon!      (I mean, if you really want it rn open the a
 
 Normal and specullar mapping support is heavily encouraged, POM is optional since it's still in a very early stage.
 
-This pack has some content from and based of https://faithful.team 's Faithful 32 Resource pack. Please don't re-release it and please send screenshots at my shaderlabs channel! https://discord.gg/RpzWN9S
+This pack has some content from and based of https://faithful.team 's Faithful 32 Resource pack, go give them some support!
+Please don't re-release it and feel more than welcome to send screenshots at my shaderlabs channel! https://discord.gg/RpzWN9S
