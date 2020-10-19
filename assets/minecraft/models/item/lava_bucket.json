@@ -2,8 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "item/bucket_3d",
-		"1": "block/lava_still",
-		"particle": "item/bucket_3d"
+		"1": "block/lava_still"
 	},
 	"elements": [
 		{
