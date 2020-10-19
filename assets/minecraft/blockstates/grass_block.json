@@ -1,7 +1,7 @@
 {
     "variants": {
         "snowy=false": [
-            { "model": "block/grass_block", "weight": 400 },
+            { "model": "block/grass_block", "weight": 600 },
 			{ "model": "block/grass_block_rock", "weight": 2 , "uvlock":true },
             { "model": "block/grass_block_rock", "weight": 2 , "y": 90, "uvlock":true },
             { "model": "block/grass_block_rock", "weight": 2 , "y": 180, "uvlock":true },
