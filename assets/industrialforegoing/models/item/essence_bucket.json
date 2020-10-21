@@ -1,8 +1,8 @@
-m{
+{
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "item/bucket_3d",
-		"1": "industrialforegoing:fluids/meat_still"
+		"1": "industrialforegoing:blocks/fluid/essence_still"
 	},
 	"elements": [
 		{
@@ -152,7 +152,8 @@ m{
 			"scale": [0.8, 0.8, 0.8]
 		},
 		"ground": {
-			"translation": [0, 3, 0],
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -4.2],
 			"scale": [0.7, 0.7, 0.7]
 		},
 		"gui": {

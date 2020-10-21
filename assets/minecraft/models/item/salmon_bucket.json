@@ -2,8 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"metal": "item/bucket_3d",
-		"fluid": "block/water_still",
-		"particle": "entity/fish/salmon",
+		"fluid": "item/water_bucket_3d",
 		"fish": "entity/fish/salmon"
 	},
 	"elements": [
@@ -182,7 +181,8 @@
 			"scale": [0.8, 0.8, 0.8]
 		},
 		"ground": {
-			"translation": [0, 3, 0],
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -4.2],
 			"scale": [0.7, 0.7, 0.7]
 		},
 		"gui": {
