@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "item/bucket_3d",
-		"1": "industrialforegoing:blocks/fluid/latex_still"
+		"1": "industrialforegoing:blocks/fluids/latex_still"
 	},
 	"elements": [
 		{
