@@ -1,5 +1,7 @@
 # FaithForge 
-
+<p align="center">
+  <img src="pack.png">
+</p>
 Just an ordinary but not a simple faithful edit. 64 pixels of pure rgba, and that's squared! per texture!
 
 Mod support list comming soon!      (I mean, if you really want it rn open the assets folder, if the mod name is in there, it is at least partialy supported)
