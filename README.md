@@ -1,6 +1,6 @@
 # FaithForge 
 <p align="center">
-  <img src="pack.png">
+  <img src="github.png">
 </p>
 Just an ordinary but not a simple faithful edit. 64 pixels of pure rgba, and that's squared! per texture!
 
