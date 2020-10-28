@@ -1,0 +1,6 @@
+{
+    "parent": "item/template_boots",
+    "textures": {
+        "boots": "fansmod:models/armor/sticky_layer_1"
+    }
+}

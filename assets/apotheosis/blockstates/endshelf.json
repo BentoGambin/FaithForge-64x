@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "apotheosis:block/endshelf"},
+            { "model": "apotheosis:block/endshelf_90", "y": 90},
+            { "model": "apotheosis:block/endshelf_180", "y": 180},
+            { "model": "apotheosis:block/endshelf_270", "y": 270}
+		]
+    }
+}
