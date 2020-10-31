@@ -1,5 +1,10 @@
 {
     "variants": {
-		"": { "model": "apotheosis:block/draconic_endshelf" }
+        "": [
+            { "model": "apotheosis:block/draconic_endshelf"},
+            { "model": "apotheosis:block/draconic_endshelf_90", "y": 90},
+            { "model": "apotheosis:block/draconic_endshelf_180", "y": 180},
+            { "model": "apotheosis:block/draconic_endshelf_270", "y": 270}
+		]
     }
 }

@@ -1,7 +1,7 @@
 {
     "parent": "item/template_book",
     "textures": {
-        "book": "enchantability:item/book_3d_normal",
+        "book": "enchantability:item/book_3d",
         "feather": "item/no_feather"
     }
 }

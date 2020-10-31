@@ -1,0 +1,6 @@
+{
+    "parent": "item/template_leggings",
+    "textures": {
+        "helmet": "immersiveengineering:models/armor/armor_steel_legs.png"
+    }
+}

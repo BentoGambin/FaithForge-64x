@@ -6,7 +6,7 @@
 		"3": "apotheosis:blocks/endshelf",
 		"4": "apotheosis:blocks/endshelf_3d",
 		"particle": "apotheosis:blocks/endshelf",
-		"end": "apotheosis:blocks/end_stone_bricks"
+		"end": "block/end_stone_bricks"
 	},
 	"elements": [
 		{

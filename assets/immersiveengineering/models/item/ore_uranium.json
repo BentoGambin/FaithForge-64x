@@ -1,6 +1,7 @@
 {
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "immersiveengineering:block/metal/ore_uranium"
-  }
+    "parent":"block/template_ore",
+    "textures": {
+        "stone":"block/stone",
+		"ore": "mekanism:block/uranium_ore_3d"
+    }
 }
