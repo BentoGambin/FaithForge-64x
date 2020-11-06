@@ -1,6 +1,6 @@
 {
     "parent": "item/template_helmet",
     "textures": {
-        "helmet": "immersiveengineering:models/armor_faraday.png"
+        "helmet": "immersiveengineering:models/armor_faraday"
     }
 }

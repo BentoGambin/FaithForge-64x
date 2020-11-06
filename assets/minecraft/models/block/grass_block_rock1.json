@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
-		"4": "block/stone",
+		"4": "block/andesite",
 		"particle": "block/dirt",
 		"bottom": "block/dirt",
 		"top": "block/grass_block_top",

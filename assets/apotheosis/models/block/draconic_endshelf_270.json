@@ -7,7 +7,7 @@
 		"4": "apotheosis:blocks/draconic_endshelf_3d",
 		"5": "apotheosis:blocks/endshelf_pearl",
 		"particle": "apotheosis:blocks/endshelf",
-		"end": "apotheosis:block/end_stone_bricks"
+		"end": "block/end_stone_bricks"
 	},
 	"elements": [
 		{

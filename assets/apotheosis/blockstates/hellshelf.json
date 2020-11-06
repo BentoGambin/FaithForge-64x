@@ -1,5 +1,10 @@
 {
     "variants": {
-		"": { "model": "apotheosis:block/hellshelf" }
+        "": [
+            { "model": "apotheosis:block/hellshelf"},
+            { "model": "apotheosis:block/hellshelf_90", "y": 90},
+            { "model": "apotheosis:block/hellshelf_180", "y": 180},
+            { "model": "apotheosis:block/hellshelf_270", "y": 270}
+		]
     }
 }

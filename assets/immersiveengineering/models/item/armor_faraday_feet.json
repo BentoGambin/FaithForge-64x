@@ -1,6 +1,6 @@
 {
     "parent": "item/template_boots",
     "textures": {
-        "boots": "immersiveengineering:models/armor_faraday.png"
+        "boots": "immersiveengineering:models/armor_faraday"
     }
 }

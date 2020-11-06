@@ -1,10 +1,10 @@
 {
     "variants": {
         "": [
-            { "model": "apotheosis:block/pearl_endshelf"},
-            { "model": "apotheosis:block/pearl_endshelf", "y": 90},
-            { "model": "apotheosis:block/pearl_endshelf", "y": 180},
-            { "model": "apotheosis:block/pearl_endshelf", "y": 270}
+            { "model": "apotheosis:block/melonshelf"},
+            { "model": "apotheosis:block/melonshelf", "y": 90},
+            { "model": "apotheosis:block/melonshelf", "y": 180},
+            { "model": "apotheosis:block/melonshelf", "y": 270}
 		]
     }
 }

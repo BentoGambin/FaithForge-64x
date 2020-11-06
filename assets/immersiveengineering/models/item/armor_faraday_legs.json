@@ -1,6 +1,6 @@
 {
     "parent": "item/template_leggings",
     "textures": {
-        "leg": "immersiveengineering:models/armor_faraday_legs.png"
+        "leg": "immersiveengineering:models/armor_faraday_legs"
     }
 }
