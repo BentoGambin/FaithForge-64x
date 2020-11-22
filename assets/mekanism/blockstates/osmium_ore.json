@@ -1,22 +1,24 @@
 {
-    "variants": {
-        "": [
-            { "model": "mekanism:block/ore/osmium" },
-            { "model": "mekanism:block/ore/osmium", "x": 90, "uvlock":true},
-            { "model": "mekanism:block/ore/osmium", "x": 180, "uvlock":true },
-            { "model": "mekanism:block/ore/osmium", "x": 270, "uvlock":true },
-            { "model": "mekanism:block/ore/osmium", "y": 90, "uvlock":true},
-            { "model": "mekanism:block/ore/osmium", "y": 90, "x": 90, "uvlock":true},
-            { "model": "mekanism:block/ore/osmium", "y": 90, "x": 180, "uvlock":true},
-            { "model": "mekanism:block/ore/osmium", "y": 90, "x": 270, "uvlock":true},
-            { "model": "mekanism:block/ore/osmium", "y": 180, "x": 90, "uvlock":true},
-            { "model": "mekanism:block/ore/osmium", "y": 180, "x": 180, "uvlock":true},
-            { "model": "mekanism:block/ore/osmium", "y": 180, "x": 270, "uvlock":true},
-            { "model": "mekanism:block/ore/osmium", "y": 180, "uvlock":true },
-            { "model": "mekanism:block/ore/osmium", "y": 270, "x": 90, "uvlock":true},
-            { "model": "mekanism:block/ore/osmium", "y": 270, "x": 180, "uvlock":true},
-            { "model": "mekanism:block/ore/osmium", "y": 270, "x": 270, "uvlock":true},
-            { "model": "mekanism:block/ore/osmium", "y": 270, "uvlock":true }
+    "multipart": [
+        {   "apply": [
+            { "model": "mekanism:block/ore/osmium_3d" },
+            { "model": "mekanism:block/ore/osmium_3d", "x": 90},
+            { "model": "mekanism:block/ore/osmium_3d", "x": 180 },
+            { "model": "mekanism:block/ore/osmium_3d", "x": 270 },
+            { "model": "mekanism:block/ore/osmium_3d", "y": 90},
+            { "model": "mekanism:block/ore/osmium_3d", "y": 90, "x": 90},
+            { "model": "mekanism:block/ore/osmium_3d", "y": 90, "x": 180},
+            { "model": "mekanism:block/ore/osmium_3d", "y": 90, "x": 270},
+            { "model": "mekanism:block/ore/osmium_3d", "y": 180, "x": 90},
+            { "model": "mekanism:block/ore/osmium_3d", "y": 180, "x": 180},
+            { "model": "mekanism:block/ore/osmium_3d", "y": 180, "x": 270},
+            { "model": "mekanism:block/ore/osmium_3d", "y": 180 },
+            { "model": "mekanism:block/ore/osmium_3d", "y": 270, "x": 90},
+            { "model": "mekanism:block/ore/osmium_3d", "y": 270, "x": 180},
+            { "model": "mekanism:block/ore/osmium_3d", "y": 270, "x": 270},
+            { "model": "mekanism:block/ore/osmium_3d", "y": 270 }
 		]
-    }
+    	},
+        {   "apply": { "model": "block/stone"}}
+    ]
 }

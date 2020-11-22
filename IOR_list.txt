@@ -1,0 +1,11 @@
+Name                  IOR      g_value
+
+Quartz
+                     1.459	       9
+
+Diamond
+                     2.387	      43
+
+Glass
+                     1.474	       9
+

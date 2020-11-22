@@ -1,5 +1,12 @@
 {
-    "variants": {
-		"": { "model": "apotheosis:block/beeshelf" }
-    }
+    "multipart": [
+        {   "apply": [
+        		{ "model": "apotheosis:block/beeshelf_books"},
+        		{ "model": "apotheosis:block/beeshelf_books", "y": 90},
+        		{ "model": "apotheosis:block/beeshelf_books", "y": 180},
+        		{ "model": "apotheosis:block/beeshelf_books", "y": 270}
+        	]
+    	},
+        {   "apply": { "model": "apotheosis:block/beeshelf_frame"}}
+    ]
 }

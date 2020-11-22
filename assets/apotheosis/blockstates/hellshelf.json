@@ -1,10 +1,12 @@
 {
-    "variants": {
-        "": [
-            { "model": "apotheosis:block/hellshelf"},
-            { "model": "apotheosis:block/hellshelf_90", "y": 90},
-            { "model": "apotheosis:block/hellshelf_180", "y": 180},
-            { "model": "apotheosis:block/hellshelf_270", "y": 270}
-		]
-    }
+    "multipart": [
+        {   "apply": [
+        		{ "model": "apotheosis:block/hellshelf_books"},
+        		{ "model": "apotheosis:block/hellshelf_books", "y": 90},
+        		{ "model": "apotheosis:block/hellshelf_books", "y": 180},
+        		{ "model": "apotheosis:block/hellshelf_books", "y": 270}
+        	]
+    	},
+        {   "apply": { "model": "apotheosis:block/hellshelf_frame"}}
+    ]
 }

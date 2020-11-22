@@ -1,10 +1,21 @@
 {
-    "variants": {
-        "": [
-            { "model": "apotheosis:block/blazing_hellshelf"},
-            { "model": "apotheosis:block/blazing_hellshelf_90", "y": 90},
-            { "model": "apotheosis:block/blazing_hellshelf_180", "y": 180},
-            { "model": "apotheosis:block/blazing_hellshelf_270", "y": 270}
-		]
-    }
+    "multipart": [
+        {   "apply": [
+        		{ "model": "apotheosis:block/hellshelf_books"},
+        		{ "model": "apotheosis:block/hellshelf_books", "y": 90},
+        		{ "model": "apotheosis:block/hellshelf_books", "y": 180},
+        		{ "model": "apotheosis:block/hellshelf_books", "y": 270}
+        	]
+    	},
+        {   "apply": 
+        	{ "model": "apotheosis:block/hellshelf_frame"}
+        },
+        {   "apply": [
+        		{ "model": "apotheosis:block/hellshelf_flame"},
+        		{ "model": "apotheosis:block/hellshelf_flame", "y": 90},
+        		{ "model": "apotheosis:block/hellshelf_flame", "y": 180},
+        		{ "model": "apotheosis:block/hellshelf_flame", "y": 270}
+        	]
+        }
+    ]
 }

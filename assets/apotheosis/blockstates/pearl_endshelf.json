@@ -1,10 +1,12 @@
 {
-    "variants": {
-        "": [
-            { "model": "apotheosis:block/pearl_endshelf"},
-            { "model": "apotheosis:block/pearl_endshelf_90", "y": 90},
-            { "model": "apotheosis:block/pearl_endshelf_180", "y": 180},
-            { "model": "apotheosis:block/pearl_endshelf_270", "y": 270}
-		]
-    }
+    "multipart": [
+        {   "apply": [
+        		{ "model": "apotheosis:block/endshelf_books"},
+        		{ "model": "apotheosis:block/endshelf_books", "y": 90},
+        		{ "model": "apotheosis:block/endshelf_books", "y": 180},
+        		{ "model": "apotheosis:block/endshelf_books", "y": 270}
+        	]
+    	},
+        {   "apply": { "model": "apotheosis:block/pearl_endshelf_frame"}}
+    ]
 }

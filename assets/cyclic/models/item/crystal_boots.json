@@ -1,6 +1,6 @@
 {
     "parent": "item/template_boots",
     "textures": {
-        "helmet": "cyclic:models/armor/crystal_layer_1.png"
+        "boots": "cyclic:models/armor/crystal_layer_1.png"
     }
 }

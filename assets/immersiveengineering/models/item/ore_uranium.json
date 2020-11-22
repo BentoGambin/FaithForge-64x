@@ -1,7 +1,6 @@
 {
-    "parent":"block/template_ore",
-    "textures": {
-        "stone":"block/stone",
-		"ore": "mekanism:block/uranium_ore_3d"
-    }
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "mekanism:block/uranium_ore"
+  }
 }

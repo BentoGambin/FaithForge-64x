@@ -1,6 +1,6 @@
 {
     "parent": "item/template_leggings",
     "textures": {
-        "helmet": "cyclic:models/armor/crystal_layer_2.png"
+        "leg": "cyclic:models/armor/crystal_layer_2.png"
     }
 }

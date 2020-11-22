@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"metal": "item/bucket_3d",
-		"fluid": "item/water_bucket_3d",
+		"fluid": "misc/underwater",
 		"fish": "entity/fish/cod"
 	},
 	"elements": [
@@ -30,7 +30,7 @@
 				"east": {"uv": [3, 3, 12, 12], "texture": "#fluid"},
 				"south": {"uv": [3, 3, 12, 12], "texture": "#fluid"},
 				"west": {"uv": [3, 3, 12, 12], "texture": "#fluid"},
-				"up": {"uv": [3, 3, 12, 12], "texture": "#fluid"},
+				"up": {"uv": [3, 3, 12, 12], "texture": "#fluid", "tintindex": 0},
 				"down": {"uv": [3, 3, 12, 12], "texture": "#fluid"}
 			}
 		},

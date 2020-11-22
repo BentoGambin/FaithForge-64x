@@ -1,6 +1,6 @@
 {
     "parent": "item/template_helmet",
     "textures": {
-        "helmet": "cyclic:models/armor/emerald_layer_1.png"
+        "helmet": "cyclic:models/armor/crystal_layer_1.png"
     }
 }

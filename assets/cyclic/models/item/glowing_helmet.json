@@ -1,0 +1,6 @@
+{
+    "parent": "item/template_helmet",
+    "textures": {
+        "helmet": "cyclic:models/armor/glowing_layer_1.png"
+    }
+}

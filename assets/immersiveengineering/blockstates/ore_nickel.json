@@ -1,22 +1,24 @@
 {
-    "variants": {
-        "": [
-            { "model": "immersiveengineering:block/ore_nickel" },
-            { "model": "immersiveengineering:block/ore_nickel", "x": 90, "uvlock":true},
-            { "model": "immersiveengineering:block/ore_nickel", "x": 180, "uvlock":true },
-            { "model": "immersiveengineering:block/ore_nickel", "x": 270, "uvlock":true },
-            { "model": "immersiveengineering:block/ore_nickel", "y": 90, "uvlock":true},
-            { "model": "immersiveengineering:block/ore_nickel", "y": 90, "x": 90, "uvlock":true},
-            { "model": "immersiveengineering:block/ore_nickel", "y": 90, "x": 180, "uvlock":true},
-            { "model": "immersiveengineering:block/ore_nickel", "y": 90, "x": 270, "uvlock":true},
-            { "model": "immersiveengineering:block/ore_nickel", "y": 180, "x": 90, "uvlock":true},
-            { "model": "immersiveengineering:block/ore_nickel", "y": 180, "x": 180, "uvlock":true},
-            { "model": "immersiveengineering:block/ore_nickel", "y": 180, "x": 270, "uvlock":true},
-            { "model": "immersiveengineering:block/ore_nickel", "y": 180, "uvlock":true },
-            { "model": "immersiveengineering:block/ore_nickel", "y": 270, "x": 90, "uvlock":true},
-            { "model": "immersiveengineering:block/ore_nickel", "y": 270, "x": 180, "uvlock":true},
-            { "model": "immersiveengineering:block/ore_nickel", "y": 270, "x": 270, "uvlock":true},
-            { "model": "immersiveengineering:block/ore_nickel", "y": 270, "uvlock":true }
-		]
-    }
+    "multipart": [
+        {   "apply": [
+            { "model": "immersiveengineering:block/ore_nickel_3d" },
+            { "model": "immersiveengineering:block/ore_nickel_3d", "x": 90},
+            { "model": "immersiveengineering:block/ore_nickel_3d", "x": 180 },
+            { "model": "immersiveengineering:block/ore_nickel_3d", "x": 270 },
+            { "model": "immersiveengineering:block/ore_nickel_3d", "y": 90},
+            { "model": "immersiveengineering:block/ore_nickel_3d", "y": 90, "x": 90},
+            { "model": "immersiveengineering:block/ore_nickel_3d", "y": 90, "x": 180},
+            { "model": "immersiveengineering:block/ore_nickel_3d", "y": 90, "x": 270},
+            { "model": "immersiveengineering:block/ore_nickel_3d", "y": 180, "x": 90},
+            { "model": "immersiveengineering:block/ore_nickel_3d", "y": 180, "x": 180},
+            { "model": "immersiveengineering:block/ore_nickel_3d", "y": 180, "x": 270},
+            { "model": "immersiveengineering:block/ore_nickel_3d", "y": 180 },
+            { "model": "immersiveengineering:block/ore_nickel_3d", "y": 270, "x": 90},
+            { "model": "immersiveengineering:block/ore_nickel_3d", "y": 270, "x": 180},
+            { "model": "immersiveengineering:block/ore_nickel_3d", "y": 270, "x": 270},
+            { "model": "immersiveengineering:block/ore_nickel_3d", "y": 270 }
+        ]
+        },
+        {   "apply": { "model": "block/stone"}}
+    ]
 }

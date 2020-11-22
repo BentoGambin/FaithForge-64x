@@ -1,4 +1,6 @@
 thumbs.db
 *.ico
 *.psd
+*.o
+*.c
 desktop\.ini
