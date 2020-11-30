@@ -1,0 +1,28 @@
+{
+  "ambientocclusion": false,
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/tinted_cross",
+	"textures": {
+		"cross": "block/grass"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 8],
+			"to": [16, 9, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 1, 8]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 9], "texture": "#cross", "tintindex": 0 },
+				"south": {"uv": [0, 0, 16, 9], "texture": "#cross", "tintindex": 0 }
+			}
+		},
+		{
+			"from": [8, 0, 0],
+			"to": [8, 9, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 1, 8]},
+			"faces": {
+				"east": {"uv": [16, 0, 0, 9], "texture": "#cross", "tintindex": 0 },
+				"west": {"uv": [0, 0, 16, 9], "texture": "#cross", "tintindex": 0 }
+			}
+		}
+	]
+}

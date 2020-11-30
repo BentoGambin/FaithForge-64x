@@ -1,11 +1,6 @@
-Name                  IOR      g_value
-
-Quartz
-                     1.459	       9
-
-Diamond
-                     2.387	      43
-
-Glass
-                     1.474	       9
-
+1.459 9 Quartz
+2.387 43 Diamond
+1.474 9 Glass
+3.460 78 Granite
+1.622 14 Andesite
+2.390 43 Obsidian

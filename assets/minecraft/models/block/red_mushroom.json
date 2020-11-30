@@ -1,10 +1,10 @@
 {
-	"credit": "Made with Blockbench by Juknum",
+	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"ambientocclusion": false,
 	"textures": {
-		"red_mushroom": "block/red_mushroom_block",
 		"particle": "block/red_mushroom_block",
+		"red_mushroom": "block/red_mushroom_block",
 		"inside": "block/mushroom_block_inside",
 		"stem": "block/mushroom_stem"
 	},
@@ -77,7 +77,7 @@
 				"south": {"uv": [0, 0, 7, 1], "texture": "#red_mushroom"},
 				"west": {"uv": [0, 0, 7, 1], "texture": "#red_mushroom"},
 				"up": {"uv": [8, 3.5, 15, 10.5], "texture": "#red_mushroom"},
-				"down": {"uv": [4.5, 4.5, 11.5, 11.5], "texture": "#inside"}
+				"down": {"uv": [4.5, 4.5, 11.5, 11.5], "texture": "#inside", "cullface": "down"}
 			}
 		},
 		{
@@ -125,7 +125,7 @@
 				"east": {"uv": [0, 0, 1.5, 6.5], "texture": "#stem"},
 				"south": {"uv": [0, 0, 1.5, 6.5], "texture": "#stem"},
 				"west": {"uv": [0, 0, 1.5, 6.5], "texture": "#stem"},
-				"down": {"uv": [0, 0, 1.5, 1.5], "texture": "#inside"}
+				"down": {"uv": [0, 0, 1.5, 1.5], "texture": "#inside", "cullface": "down"}
 			}
 		}
 	]
