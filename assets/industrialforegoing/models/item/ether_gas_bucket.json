@@ -1,0 +1,6 @@
+{
+    "parent": "item/template_bucket_liquid",
+    "textures": {
+        "liquid": "industrialforegoing:blocks/fluids/ether_gas_still"
+    }
+}
