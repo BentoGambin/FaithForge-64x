@@ -9,12 +9,8 @@
 			"from": [4, 4, 4],
 			"to": [4, 12, 12],
 			"faces": {
-				"north": {"uv": [0, 0, 0, 4], "texture": "#helmet"},
 				"east": {"uv": [6, 4, 4, 8], "texture": "#helmet"},
-				"south": {"uv": [0, 0, 0, 4], "texture": "#helmet"},
-				"west": {"uv": [4, 4, 6, 8], "texture": "#helmet"},
-				"up": {"uv": [0, 0, 0, 4], "texture": "#helmet"},
-				"down": {"uv": [0, 0, 0, 4], "texture": "#helmet"}
+				"west": {"uv": [4, 4, 6, 8], "texture": "#helmet"}
 			}
 		},
 		{
@@ -34,11 +30,7 @@
 			"to": [12, 12, 4],
 			"faces": {
 				"north": {"uv": [2, 4, 4, 8], "texture": "#helmet"},
-				"east": {"uv": [0, 0, 0, 4], "texture": "#helmet"},
-				"south": {"uv": [4, 4, 2, 8], "texture": "#helmet"},
-				"west": {"uv": [0, 0, 0, 4], "texture": "#helmet"},
-				"up": {"uv": [0, 0, 0, 4], "rotation": 90, "texture": "#helmet"},
-				"down": {"uv": [0, 0, 0, 4], "rotation": 270, "texture": "#helmet"}
+				"south": {"uv": [4, 4, 2, 8], "texture": "#helmet"}
 			}
 		},
 		{
@@ -46,11 +38,7 @@
 			"to": [12, 12, 12],
 			"faces": {
 				"north": {"uv": [8, 4, 6, 8], "texture": "#helmet"},
-				"east": {"uv": [0, 0, 0, 4], "texture": "#helmet"},
-				"south": {"uv": [6, 4, 8, 8], "texture": "#helmet"},
-				"west": {"uv": [0, 0, 0, 4], "texture": "#helmet"},
-				"up": {"uv": [0, 0, 0, 4], "rotation": 90, "texture": "#helmet"},
-				"down": {"uv": [0, 0, 0, 4], "rotation": 270, "texture": "#helmet"}
+				"south": {"uv": [6, 4, 8, 8], "texture": "#helmet"}
 			}
 		},
 		{
@@ -58,10 +46,6 @@
 			"to": [12, 12, 12.001],
 			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 8.001]},
 			"faces": {
-				"north": {"uv": [0, 0, 0, 4], "rotation": 270, "texture": "#helmet"},
-				"east": {"uv": [0, 0, 0, 4], "rotation": 90, "texture": "#helmet"},
-				"south": {"uv": [0, 0, 0, 4], "rotation": 270, "texture": "#helmet"},
-				"west": {"uv": [0, 0, 0, 4], "rotation": 270, "texture": "#helmet"},
 				"up": {"uv": [4, 4, 2, 0], "texture": "#helmet"},
 				"down": {"uv": [2, 4, 4, 0], "rotation": 180, "texture": "#helmet"}
 			}
@@ -89,7 +73,7 @@
 			"scale": [0.625, 0.625, 0.625]
 		},
 		"ground": {
-			"rotation": [-26, 0, 0],
+			"rotation": [-116, 0, 0],
 			"translation": [0, -2, 0],
 			"scale": [0.625, 0.625, 0.625]
 		},

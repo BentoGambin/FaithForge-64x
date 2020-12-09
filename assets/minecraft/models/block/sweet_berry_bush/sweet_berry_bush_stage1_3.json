@@ -1,0 +1,28 @@
+{
+  "ambientocclusion": false,
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/tinted_cross",
+	"textures": {
+		"cross": "block/sweet_berry_bush_stage1"
+	},
+	"elements": [
+		{
+			"from": [8, -1, 0],
+			"to": [8, 12, 16],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 12], "texture": "#cross"},
+				"west": {"uv": [16, 0, 0, 12], "texture": "#cross"}
+			}
+		},
+		{
+			"from": [8, -1, 0],
+			"to": [8, 12, 16],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"east": {"uv": [16, 0, 0, 12], "texture": "#cross"},
+				"west": {"uv": [0, 0, 16, 12], "texture": "#cross"}
+			}
+		}
+	]
+}
