@@ -1,0 +1,1066 @@
+{
+    "multipart": [
+        {
+            "when": {
+                "facing": "north",
+                "level": "0"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_0"
+            }
+        },
+        {
+            "when": {
+                "facing": "south",
+                "level": "0"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_0",
+                "y": 180
+            }
+        },
+        {
+            "when": {
+                "facing": "west",
+                "level": "0"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_0",
+                "y": -90
+            }
+        },
+        {
+            "when": {
+                "facing": "east",
+                "level": "0"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_0",
+                "y": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "up",
+                "level": "0"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_0",
+                "x": -90
+            }
+        },
+        {
+            "when": {
+                "facing": "down",
+                "level": "0"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_0",
+                "x": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "north",
+                "level": "0"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_1"
+            }
+        },
+        {
+            "when": {
+                "facing": "south",
+                "level": "1"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_1",
+                "y": 180
+            }
+        },
+        {
+            "when": {
+                "facing": "west",
+                "level": "1"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_1",
+                "y": -90
+            }
+        },
+        {
+            "when": {
+                "facing": "east",
+                "level": "1"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_1",
+                "y": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "up",
+                "level": "1"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_1",
+                "x": -90
+            }
+        },
+        {
+            "when": {
+                "facing": "down",
+                "level": "1"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_1",
+                "x": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "north",
+                "level": "2"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_2"
+            }
+        },
+        {
+            "when": {
+                "facing": "south",
+                "level": "2"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_2",
+                "y": 180
+            }
+        },
+        {
+            "when": {
+                "facing": "west",
+                "level": "2"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_2",
+                "y": -90
+            }
+        },
+        {
+            "when": {
+                "facing": "east",
+                "level": "2"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_2",
+                "y": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "up",
+                "level": "2"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_2",
+                "x": -90
+            }
+        },
+        {
+            "when": {
+                "facing": "down",
+                "level": "2"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_2",
+                "x": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "north",
+                "level": "3"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_3"
+            }
+        },
+        {
+            "when": {
+                "facing": "south",
+                "level": "3"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_3",
+                "y": 180
+            }
+        },
+        {
+            "when": {
+                "facing": "west",
+                "level": "3"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_3",
+                "y": -90
+            }
+        },
+        {
+            "when": {
+                "facing": "east",
+                "level": "3"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_3",
+                "y": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "up",
+                "level": "3"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_3",
+                "x": -90
+            }
+        },
+        {
+            "when": {
+                "facing": "down",
+                "level": "3"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_3",
+                "x": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "north",
+                "level": "4"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_4"
+            }
+        },
+        {
+            "when": {
+                "facing": "south",
+                "level": "4"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_4",
+                "y": 180
+            }
+        },
+        {
+            "when": {
+                "facing": "west",
+                "level": "4"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_4",
+                "y": -90
+            }
+        },
+        {
+            "when": {
+                "facing": "east",
+                "level": "4"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_4",
+                "y": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "up",
+                "level": "4"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_4",
+                "x": -90
+            }
+        },
+        {
+            "when": {
+                "facing": "down",
+                "level": "4"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_4",
+                "x": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "north",
+                "level": "5"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_5"
+            }
+        },
+        {
+            "when": {
+                "facing": "south",
+                "level": "5"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_5",
+                "y": 180
+            }
+        },
+        {
+            "when": {
+                "facing": "west",
+                "level": "5"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_5",
+                "y": -90
+            }
+        },
+        {
+            "when": {
+                "facing": "east",
+                "level": "5"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_5",
+                "y": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "up",
+                "level": "5"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_5",
+                "x": -90
+            }
+        },
+        {
+            "when": {
+                "facing": "down",
+                "level": "5"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_5",
+                "x": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "north",
+                "level": "6"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_6"
+            }
+        },
+        {
+            "when": {
+                "facing": "south",
+                "level": "6"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_6",
+                "y": 180
+            }
+        },
+        {
+            "when": {
+                "facing": "west",
+                "level": "6"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_6",
+                "y": -90
+            }
+        },
+        {
+            "when": {
+                "facing": "east",
+                "level": "6"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_6",
+                "y": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "up",
+                "level": "6"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_6",
+                "x": -90
+            }
+        },
+        {
+            "when": {
+                "facing": "down",
+                "level": "6"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_6",
+                "x": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "north",
+                "level": "7"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_7"
+            }
+        },
+        {
+            "when": {
+                "facing": "south",
+                "level": "7"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_7",
+                "y": 180
+            }
+        },
+        {
+            "when": {
+                "facing": "west",
+                "level": "7"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_7",
+                "y": -90
+            }
+        },
+        {
+            "when": {
+                "facing": "east",
+                "level": "7"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_7",
+                "y": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "up",
+                "level": "7"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_7",
+                "x": -90
+            }
+        },
+        {
+            "when": {
+                "facing": "down",
+                "level": "7"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_7",
+                "x": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "north",
+                "level": "8"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_8"
+            }
+        },
+        {
+            "when": {
+                "facing": "south",
+                "level": "8"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_8",
+                "y": 180
+            }
+        },
+        {
+            "when": {
+                "facing": "west",
+                "level": "8"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_8",
+                "y": -90
+            }
+        },
+        {
+            "when": {
+                "facing": "east",
+                "level": "8"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_8",
+                "y": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "up",
+                "level": "8"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_8",
+                "x": -90
+            }
+        },
+        {
+            "when": {
+                "facing": "down",
+                "level": "8"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_8",
+                "x": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "north",
+                "level": "9"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_9"
+            }
+        },
+        {
+            "when": {
+                "facing": "south",
+                "level": "9"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_9",
+                "y": 180
+            }
+        },
+        {
+            "when": {
+                "facing": "west",
+                "level": "9"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_9",
+                "y": -90
+            }
+        },
+        {
+            "when": {
+                "facing": "east",
+                "level": "9"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_9",
+                "y": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "up",
+                "level": "9"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_9",
+                "x": -90
+            }
+        },
+        {
+            "when": {
+                "facing": "down",
+                "level": "9"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_9",
+                "x": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "north",
+                "level": "10"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_10"
+            }
+        },
+        {
+            "when": {
+                "facing": "south",
+                "level": "10"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_10",
+                "y": 180
+            }
+        },
+        {
+            "when": {
+                "facing": "west",
+                "level": "10"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_10",
+                "y": -90
+            }
+        },
+        {
+            "when": {
+                "facing": "east",
+                "level": "10"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_10",
+                "y": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "up",
+                "level": "10"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_10",
+                "x": -90
+            }
+        },
+        {
+            "when": {
+                "facing": "down",
+                "level": "10"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_10",
+                "x": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "north",
+                "level": "11"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_11"
+            }
+        },
+        {
+            "when": {
+                "facing": "south",
+                "level": "11"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_11",
+                "y": 180
+            }
+        },
+        {
+            "when": {
+                "facing": "west",
+                "level": "11"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_11",
+                "y": -90
+            }
+        },
+        {
+            "when": {
+                "facing": "east",
+                "level": "11"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_11",
+                "y": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "up",
+                "level": "11"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_11",
+                "x": -90
+            }
+        },
+        {
+            "when": {
+                "facing": "down",
+                "level": "11"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_11",
+                "x": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "north",
+                "level": "12"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_12"
+            }
+        },
+        {
+            "when": {
+                "facing": "south",
+                "level": "12"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_12",
+                "y": 180
+            }
+        },
+        {
+            "when": {
+                "facing": "west",
+                "level": "12"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_12",
+                "y": -90
+            }
+        },
+        {
+            "when": {
+                "facing": "east",
+                "level": "12"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_12",
+                "y": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "up",
+                "level": "12"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_12",
+                "x": -90
+            }
+        },
+        {
+            "when": {
+                "facing": "down",
+                "level": "12"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_12",
+                "x": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "north",
+                "level": "13"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_13"
+            }
+        },
+        {
+            "when": {
+                "facing": "south",
+                "level": "13"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_13",
+                "y": 180
+            }
+        },
+        {
+            "when": {
+                "facing": "west",
+                "level": "13"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_13",
+                "y": -90
+            }
+        },
+        {
+            "when": {
+                "facing": "east",
+                "level": "13"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_13",
+                "y": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "up",
+                "level": "13"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_13",
+                "x": -90
+            }
+        },
+        {
+            "when": {
+                "facing": "down",
+                "level": "13"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_13",
+                "x": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "north",
+                "level": "14"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_14"
+            }
+        },
+        {
+            "when": {
+                "facing": "south",
+                "level": "14"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_14",
+                "y": 180
+            }
+        },
+        {
+            "when": {
+                "facing": "west",
+                "level": "14"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_14",
+                "y": -90
+            }
+        },
+        {
+            "when": {
+                "facing": "east",
+                "level": "14"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_14",
+                "y": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "up",
+                "level": "14"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_14",
+                "x": -90
+            }
+        },
+        {
+            "when": {
+                "facing": "down",
+                "level": "14"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_14",
+                "x": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "north",
+                "level": "15"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_15"
+            }
+        },
+        {
+            "when": {
+                "facing": "south",
+                "level": "15"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_15",
+                "y": 180
+            }
+        },
+        {
+            "when": {
+                "facing": "west",
+                "level": "15"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_15",
+                "y": -90
+            }
+        },
+        {
+            "when": {
+                "facing": "east",
+                "level": "15"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_15",
+                "y": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "up",
+                "level": "15"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_15",
+                "x": -90
+            }
+        },
+        {
+            "when": {
+                "facing": "down",
+                "level": "15"
+            },
+            "apply": {
+                "model": "fansmod:block/configurable/configurable_fan_15",
+                "x": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "north",
+                "level": "0"
+            },
+            "apply": {
+                "model": "fansmod:block/fan_off"
+            }
+        },
+        {
+            "when": {
+                "facing": "south",
+                "level": "0"
+            },
+            "apply": {
+                "model": "fansmod:block/fan_off",
+                "y": 180
+            }
+        },
+        {
+            "when": {
+                "facing": "west",
+                "level": "0"
+            },
+            "apply": {
+                "model": "fansmod:block/fan_off",
+                "y": -90
+            }
+        },
+        {
+            "when": {
+                "facing": "east",
+                "level": "0"
+            },
+            "apply": {
+                "model": "fansmod:block/fan_off",
+                "y": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "up",
+                "level": "0"
+            },
+            "apply": {
+                "model": "fansmod:block/fan_off",
+                "x": -90
+            }
+        },
+        {
+            "when": {
+                "facing": "down",
+                "level": "0"
+            },
+            "apply": {
+                "model": "fansmod:block/fan_off",
+                "x": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "north",
+                "level": "1|2|3|4|5|6|7|8|9|10|11|12|13|14|15"
+            },
+            "apply": {
+                "model": "fansmod:block/fan"
+            }
+        },
+        {
+            "when": {
+                "facing": "south",
+                "level": "1|2|3|4|5|6|7|8|9|10|11|12|13|14|15"
+            },
+            "apply": {
+                "model": "fansmod:block/fan",
+                "y": 180
+            }
+        },
+        {
+            "when": {
+                "facing": "west",
+                "level": "1|2|3|4|5|6|7|8|9|10|11|12|13|14|15"
+            },
+            "apply": {
+                "model": "fansmod:block/fan",
+                "y": -90
+            }
+        },
+        {
+            "when": {
+                "facing": "east",
+                "level": "1|2|3|4|5|6|7|8|9|10|11|12|13|14|15"
+            },
+            "apply": {
+                "model": "fansmod:block/fan",
+                "y": 90
+            }
+        },
+        {
+            "when": {
+                "facing": "up",
+                "level": "1|2|3|4|5|6|7|8|9|10|11|12|13|14|15"
+            },
+            "apply": {
+                "model": "fansmod:block/fan",
+                "x": -90
+            }
+        },
+        {
+            "when": {
+                "facing": "down",
+                "level": "1|2|3|4|5|6|7|8|9|10|11|12|13|14|15"
+            },
+            "apply": {
+                "model": "fansmod:block/fan",
+                "x": 90
+            }
+        }
+    ]
+}

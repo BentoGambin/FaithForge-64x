@@ -1,6 +1,6 @@
 {
     "parent": "item/template_boots",
     "textures": {
-        "helmet": "immersiveengineering:models/armor_steel"
+        "boots": "immersiveengineering:models/armor_steel"
     }
 }

@@ -1,0 +1,89 @@
+{
+  "multipart": [
+    {
+      "when": {"facing":"north"},
+      "apply": [
+        {
+          "model": "fansmod:block/sticky_fan", "uvlock": "false" 
+        }
+      ]
+    },{
+      "when": {"facing":"south"},
+      "apply": [
+        {
+          "model": "fansmod:block/sticky_fan", "y": 180 , "uvlock": "false" 
+        }
+      ]
+    },{
+      "when": {"facing":"west"},
+      "apply": [
+        {
+          "model": "fansmod:block/sticky_fan", "y": -90 , "uvlock": "false" 
+        }
+      ]
+    },{
+      "when": {"facing":"east"},
+      "apply": [
+        {
+          "model": "fansmod:block/sticky_fan", "y": 90 , "uvlock": "false" 
+        }
+      ]
+    },{
+      "when": {"facing":"up"},
+      "apply": [
+        {
+          "model": "fansmod:block/sticky_fan", "x": -90 , "uvlock": "false" 
+        }
+      ]
+    },{
+      "when": {"facing":"down"},
+      "apply": [
+        {
+          "model": "fansmod:block/sticky_fan", "x": 90 , "uvlock": "false" 
+        }
+      ]
+    },{
+      "when": {"facing":"north"},
+      "apply": [
+        {
+          "model": "fansmod:block/fan"
+        }
+      ]
+    },{
+      "when": {"facing":"south"},
+      "apply": [
+        {
+          "model": "fansmod:block/fan", "y": 180
+        }
+      ]
+    },{
+      "when": {"facing":"west"},
+      "apply": [
+        {
+          "model": "fansmod:block/fan", "y": -90
+        }
+      ]
+    },{
+      "when": {"facing":"east"},
+      "apply": [
+        {
+          "model": "fansmod:block/fan", "y": 90
+        }
+      ]
+    },{
+      "when": {"facing":"up"},
+      "apply": [
+        {
+          "model": "fansmod:block/fan", "x": -90
+        }
+      ]
+    },{
+      "when": {"facing":"down"},
+      "apply": [
+        {
+          "model": "fansmod:block/fan", "x": 90
+        }
+      ]
+    }
+  ]
+}

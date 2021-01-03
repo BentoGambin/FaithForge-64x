@@ -1,6 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
+		"ore": "texture",
 		"particle": "#ore"
 	},
 	"elements": [

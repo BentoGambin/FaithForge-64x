@@ -32,7 +32,22 @@
 				"east": {"uv": [7.875, 14.75, 8.125, 16], "texture": "#saw"},
 				"south": {"uv": [1, 14.75, 15, 16], "texture": "#saw", "tintindex": 0},
 				"west": {"uv": [7.875, 14.75, 8.125, 16], "texture": "#saw"},
-				"up": {"uv": [1, 14.75, 15, 15], "texture": "#saw"}
+				"up": {"uv": [1, 14.75, 15, 15], "texture": "#saw"},
+				"down": {"uv": [0, 0, 0, 0], "texture": "#saw"}
+			}
+		},
+		{
+			"name": "blade",
+			"from": [1, 7.75, 7.875],
+			"to": [15, 9, 8.125],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8, 9.25, 8]},
+			"faces": {
+				"north": {"uv": [1, 14.75, 15, 16], "rotation": 180, "texture": "#saw", "tintindex": 0},
+				"east": {"uv": [7.875, 14.75, 8.125, 16], "rotation": 180, "texture": "#saw"},
+				"south": {"uv": [1, 14.75, 15, 16], "rotation": 180, "texture": "#saw", "tintindex": 0},
+				"west": {"uv": [7.875, 14.75, 8.125, 16], "rotation": 180, "texture": "#saw"},
+				"up": {"uv": [0, 0, 0, 0], "rotation": 180, "texture": "#saw"},
+				"down": {"uv": [1, 14.75, 15, 15], "rotation": 180, "texture": "#saw"}
 			}
 		},
 		{

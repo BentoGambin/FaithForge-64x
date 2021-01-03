@@ -1,6 +1,6 @@
 {
     "parent": "item/template_chestplate",
     "textures": {
-        "helmet": "immersiveengineering:models/armor_steel"
+        "chestplate": "immersiveengineering:models/armor_steel"
     }
 }
