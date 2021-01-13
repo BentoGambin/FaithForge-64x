@@ -1,0 +1,7 @@
+
+{
+  "parent": "compactmachines:block/machine_base",
+  "textures": {
+    "material": "block/iron_block"
+  }
+}

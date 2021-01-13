@@ -1,0 +1,7 @@
+{
+    "parent": "item/template_book",
+    "textures": {
+        "book": "immersiveengineering:item/manual_3d",
+        "feather": "item/no_feather"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "multipart": [
+        {   "apply": [
+            { "model": "block/grass_block_none", "weight": 900 },
+			{ "model": "block/grass_block_rock", "weight": 2 },
+            { "model": "block/grass_block_rock", "weight": 2 , "y": 90 },
+            { "model": "block/grass_block_rock", "weight": 2 , "y": 180 },
+            { "model": "block/grass_block_rock", "weight": 2 , "y": 270 },
+			{ "model": "block/grass_block_rock_1", "weight": 2 },
+            { "model": "block/grass_block_rock_1", "weight": 2 , "y": 90 },
+            { "model": "block/grass_block_rock_1", "weight": 2 , "y": 180 },
+            { "model": "block/grass_block_rock_1", "weight": 2 , "y": 270 },
+			{ "model": "block/grass_block_rock_2", "weight": 2 },
+            { "model": "block/grass_block_rock_2", "weight": 2 , "y": 90 },
+            { "model": "block/grass_block_rock_2", "weight": 2 , "y": 180 },
+            { "model": "block/grass_block_rock_2", "weight": 2 , "y": 270 }
+		]
+    	},
+        {   "apply": { "model": "block/dirt"}}
+    ]
+}
