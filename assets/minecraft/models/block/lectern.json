@@ -1,13 +1,13 @@
 {
-	"credit": "Designed by Progical",
+	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
 		"6": "block/lectern_books",
 		"bottom": "block/oak_planks",
 		"base": "block/lectern_base",
 		"front": "block/lectern_front",
-		"sides": "block/lectern_sides",
 		"particle": "block/lectern_sides",
+		"sides": "block/lectern_sides",
 		"top": "block/lectern_top"
 	},
 	"elements": [
@@ -16,9 +16,9 @@
 			"to": [16, 2, 16],
 			"faces": {
 				"north": {"uv": [0, 14, 16, 16], "texture": "#base", "cullface": "north"},
-				"east": {"uv": [0, 6, 16, 8], "texture": "#base", "cullface": "east"},
-				"south": {"uv": [0, 6, 16, 8], "texture": "#base", "cullface": "south"},
-				"west": {"uv": [0, 6, 16, 8], "texture": "#base", "cullface": "west"},
+				"east": {"uv": [0.75, 0, 2.75, 16], "rotation": 270, "texture": "#base", "cullface": "east"},
+				"south": {"uv": [0, 2, 16, 4], "texture": "#base", "cullface": "south"},
+				"west": {"uv": [12.75, 0, 14.75, 16], "rotation": 90, "texture": "#base", "cullface": "west"},
 				"up": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#base"},
 				"down": {"uv": [0, 0, 16, 16], "texture": "#bottom", "cullface": "down"}
 			}
@@ -29,11 +29,11 @@
 			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [2.5, 1, 13.5, 2.5], "texture": "#sides"},
-				"east": {"uv": [0, 4, 12.5, 8], "texture": "#sides"},
+				"east": {"uv": [1.75, 4, 14.25, 8], "texture": "#sides"},
 				"south": {"uv": [0, 4, 16, 8], "texture": "#sides"},
-				"west": {"uv": [0, 4, 12.5, 8], "texture": "#sides"},
+				"west": {"uv": [1.5, 4, 14, 8], "texture": "#sides"},
 				"up": {"uv": [0, 1, 16, 13.5], "rotation": 180, "texture": "#top"},
-				"down": {"uv": [0, 0, 16, 12.5], "texture": "#bottom"}
+				"down": {"uv": [0, 1.75, 16, 14.25], "texture": "#bottom"}
 			}
 		},
 		{
@@ -202,7 +202,7 @@
 				"east": {"uv": [2, 16, 9, 8], "rotation": 90, "texture": "#sides"},
 				"south": {"uv": [8, 3, 16, 10], "texture": "#front"},
 				"west": {"uv": [2, 8, 9, 16], "rotation": 90, "texture": "#sides"},
-				"down": {"uv": [0, 6.5, 8, 7], "rotation": 180, "texture": "#front"}
+				"down": {"uv": [8, 0, 16, 8], "texture": "#front"}
 			}
 		}
 	],
