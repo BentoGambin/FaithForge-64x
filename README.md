@@ -18,7 +18,7 @@ Normal and specullar mapping support is HEAVILY encouraged, POM is optional sinc
 
     Shader Configs
       Chocapic13's & Loop v2:
-        POM depth Write: false (bugs out some models, mainly apotheosis bookshelves, if apotheosis is not present, it can probably be left as true);
+        POM depth Write: false (bugs out some models, mainly apotheosis bookshelves and fansmod, if both are not present, it can probably be left as true);
 
     Resourcepacks (by load order):
       Faifhforge

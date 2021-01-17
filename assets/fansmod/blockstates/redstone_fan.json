@@ -43,48 +43,6 @@
           }
         ]
       },{
-        "when": {"powered":"false","facing":"north"},
-        "apply": [
-          {
-            "model": "fansmod:block/fan_off"
-          }
-        ]
-      },{
-        "when": {"powered":"false","facing":"south"},
-        "apply": [
-          {
-            "model": "fansmod:block/fan_off", "y": 180
-          }
-        ]
-      },{
-        "when": {"powered":"false","facing":"west"},
-        "apply": [
-          {
-            "model": "fansmod:block/fan_off", "y": -90
-          }
-        ]
-      },{
-        "when": {"powered":"false","facing":"east"},
-        "apply": [
-          {
-            "model": "fansmod:block/fan_off", "y": 90
-          }
-        ]
-      },{
-        "when": {"powered":"false","facing":"up"},
-        "apply": [
-          {
-            "model": "fansmod:block/fan_off", "x": -90
-          }
-        ]
-      },{
-        "when": {"powered":"false","facing":"down"},
-        "apply": [
-          {
-            "model": "fansmod:block/fan_off", "x": 90
-          }
-        ]
-      },{
         "when": {"powered":"true","facing":"north"},
         "apply": [
           {
