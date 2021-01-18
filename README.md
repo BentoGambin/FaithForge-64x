@@ -8,6 +8,18 @@ Mod support list comming soon™!     (I mean, if you really want it rn open the
 
 Normal and specullar mapping support is HEAVILY encouraged, POM is optional since it's still in early stage.
 
+<p align="center">
+  <img src="screen2.jpg">
+</p>
+
+<p align="center">
+  <img src="screen3.jpg">
+</p>
+
+<p align="center">
+  <img src="screen4.jpg">
+</p>
+
     Recommended setup:
       Configs (in game):
         Clouds: OFF
