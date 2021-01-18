@@ -23,7 +23,7 @@ Normal and specullar mapping support is HEAVILY encouraged, POM is optional sinc
     Recommended setup:
       Configs (in game):
         Clouds: OFF
-        Natural Textures: OFF
+        Natural Textures: ON (only changes glowstone for now)
         Alternate textures: ON
         CTM: Fancy
         Trees: Smart
