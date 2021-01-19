@@ -1,9 +1,28 @@
 {
-    "parent": "block/trapdoors/template_open",
-    "textures": {
-        "top": "block/crimson_trapdoor",
-		"bottom": "block/crimson_trapdoor",
-		"front": "custom/block/trapdoors/crimson/front",
-		"side": "custom/block/trapdoors/crimson/side"
-    }
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "block/crimson_trapdoor_side",
+		"particle": "block/crimson_trapdoor",
+		"texture": "block/crimson_trapdoor"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 13],
+			"to": [16, 16, 16],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 21]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#texture"},
+				"east": {"uv": [0, 0, 16, 3], "rotation": 270, "texture": "#1", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#texture", "cullface": "south"},
+				"west": {"uv": [0, 6.25, 16, 9.25], "rotation": 90, "texture": "#1", "cullface": "west"},
+				"up": {"uv": [0, 12, 16, 9], "rotation": 180, "texture": "#1", "cullface": "up"},
+				"down": {"uv": [0, 3, 16, 6], "texture": "#1", "cullface": "down"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_lefthand": {
+			"scale": [0.375, 0.375, 0.375]
+		}
+	}
 }

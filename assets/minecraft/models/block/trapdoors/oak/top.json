@@ -1,9 +1,21 @@
 {
-    "parent": "block/trapdoors/template_top",
-    "textures": {
-        "top": "block/oak_trapdoor",
-		"bottom": "block/oak_trapdoor",
-		"front": "custom/block/trapdoors/oak/front",
-		"side": "custom/block/trapdoors/oak/side"
-    }
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "block/oak_trapdoor",
+		"texture": "block/oak_trapdoor"
+	},
+	"elements": [
+		{
+			"from": [0, 13, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 16, 16, 13], "texture": "#texture", "cullface": "north"},
+				"east": {"uv": [3, 16, 0, 0], "rotation": 270, "texture": "#texture", "cullface": "east"},
+				"south": {"uv": [0, 16, 16, 13], "texture": "#texture", "cullface": "south"},
+				"west": {"uv": [13, 16, 16, 0], "rotation": 270, "texture": "#texture", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#texture", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#texture"}
+			}
+		}
+	]
 }

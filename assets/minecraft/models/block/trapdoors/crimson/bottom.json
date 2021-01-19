@@ -1,9 +1,23 @@
 {
-    "parent": "block/trapdoors/template_bottom",
-    "textures": {
-        "top": "block/crimson_trapdoor",
-		"bottom": "block/crimson_trapdoor",
-		"front": "custom/block/trapdoors/crimson/front",
-		"side": "custom/block/trapdoors/crimson/side"
-    }
+	"credit": "Made with Blockbench",
+	"parent": "block/thin_block",
+	"textures": {
+		"1": "block/crimson_trapdoor_side",
+		"particle": "block/crimson_trapdoor",
+		"texture": "block/crimson_trapdoor"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 3, 16],
+			"faces": {
+				"north": {"uv": [0, 12, 16, 9], "texture": "#1", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 3], "texture": "#1", "cullface": "east"},
+				"south": {"uv": [0, 3, 16, 6], "texture": "#1", "cullface": "south"},
+				"west": {"uv": [0, 6.25, 16, 9.25], "texture": "#1", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#texture"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#texture", "cullface": "down"}
+			}
+		}
+	]
 }

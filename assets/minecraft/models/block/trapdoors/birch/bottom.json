@@ -1,9 +1,22 @@
 {
-    "parent": "block/trapdoors/template_bottom",
-    "textures": {
-        "top": "block/birch_trapdoor",
-		"bottom": "block/birch_trapdoor",
-		"front": "custom/block/trapdoors/birch/front",
-		"side": "custom/block/trapdoors/birch/side"
-    }
+	"credit": "Made with Blockbench",
+	"parent": "block/thin_block",
+	"textures": {
+		"particle": "block/birch_trapdoor",
+		"texture": "block/birch_trapdoor"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 3, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 3], "texture": "#texture", "cullface": "north"},
+				"east": {"uv": [0, 0, 3, 16], "rotation": 90, "texture": "#texture", "cullface": "east"},
+				"south": {"uv": [0, 16, 16, 13], "texture": "#texture", "cullface": "south"},
+				"west": {"uv": [16, 0, 13, 16], "rotation": 90, "texture": "#texture", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#texture"},
+				"down": {"uv": [0, 16, 16, 0], "texture": "#texture", "cullface": "down"}
+			}
+		}
+	]
 }
