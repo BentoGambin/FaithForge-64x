@@ -1,5 +1,5 @@
 {
-    "parent":"block/template_ore",
+    "parent":"block/template_ore_shard",
     "textures": {
         "stone":"block/stone",
 		"ore": "block/lapis_ore_3d"
