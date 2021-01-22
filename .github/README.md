@@ -1,6 +1,6 @@
 # FaithForge
 <p align="center">
-  <img src=".github/github.png">
+  <img src="github.png">
 </p>
 Just an ordinary but definitely not a simple faithful edit. 64 pixels of pure rgba, and that's squared! per texture!
 
@@ -9,15 +9,15 @@ Mod support list comming soon™!     (I mean, if you really want it rn open the
 Normal and specullar mapping support is HEAVILY encouraged, POM is optional since it's still in early stage.
 
 <p align="center">
-  <img src=".github/screen2.jpg">
+  <img src="screen2.jpg">
 </p>
 
 <p align="center">
-  <img src=".github/screen3.jpg">
+  <img src="screen3.jpg">
 </p>
 
 <p align="center">
-  <img src=".github/screen4.jpg">
+  <img src="screen4.jpg">
 </p>
 
     Recommended setup:
