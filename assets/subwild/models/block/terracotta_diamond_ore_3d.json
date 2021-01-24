@@ -1,0 +1,7 @@
+{
+    "parent":"block/template_ore_shard",
+    "textures": {
+        "stone":"block/terracotta",
+		"ore": "block/diamond_ore_3d"
+    }
+}

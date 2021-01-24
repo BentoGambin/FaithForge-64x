@@ -1,0 +1,7 @@
+{
+    "parent":"block/template_ore_shard",
+    "textures": {
+        "stone":"block/sandstone_top",
+		"ore": "block/emerald_ore_3d"
+    }
+}
