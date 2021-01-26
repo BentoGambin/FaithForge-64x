@@ -3,7 +3,8 @@
 	"ambientocclusion": false,
 	"textures": {
 		"1": "block/rail",
-		"2": "block/rail_wood"
+		"2": "block/rail_wood",
+		"particle": "block/rail"
 	},
 	"elements": [
 		{
