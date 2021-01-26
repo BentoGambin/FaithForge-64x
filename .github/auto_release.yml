@@ -1,0 +1,11 @@
+name: Auto_release
+on:
+  push:
+    branches:
+      - master
+jobs:
+  builds:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+well, I'll finish this later
