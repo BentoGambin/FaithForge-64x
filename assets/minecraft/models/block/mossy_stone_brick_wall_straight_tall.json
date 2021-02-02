@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/stone_brick_wall_straight_tall",
+	"textures": {
+	  "wall": "minecraft:block/mossy_stone_bricks"
+	}
+  }	

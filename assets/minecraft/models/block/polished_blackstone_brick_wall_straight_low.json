@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/stone_brick_wall_straight_low",
+	"textures": {
+	  "wall": "minecraft:block/polished_blackstone_bricks"
+	}
+  }

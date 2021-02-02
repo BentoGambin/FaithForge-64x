@@ -1,0 +1,21 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "block/stone_bricks",
+		"wall": "block/stone_bricks"
+	},
+	"elements": [
+		{
+			"name": "wall",
+			"from": [5, 0, 0],
+			"to": [11, 14, 8],
+			"faces": {
+				"north": {"uv": [9, 2, 15, 16], "texture": "#wall", "cullface": "north"},
+				"east": {"uv": [8, 2, 16, 16], "texture": "#wall"},
+				"west": {"uv": [0, 2, 8, 16], "texture": "#wall"},
+				"up": {"uv": [8, 0.75, 16, 6.75], "rotation": 90, "texture": "#wall"},
+				"down": {"uv": [8, 8.75, 16, 14.75], "rotation": 90, "texture": "#wall", "cullface": "down"}
+			}
+		}
+	]
+}
