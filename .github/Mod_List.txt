@@ -3,132 +3,175 @@ Mod Support List:
         gui: done
         items: done
         blocks: 90%
+        
     appleskin
         gui: done
+        
     back slot
         gui: done
+        
     better end
         gui: 0%
         items: 0%
         blocks: 3%
+        
     better muffling
         gui: done
         items: done
         blocks: done
+        
     bridge maker
         gui: done
         blocks: done
+        
     builders addition
         gui: done
         items: 0%
         blocks: 75%
+        
     cloth config2
         gui: done
+        
     colossal chests
         gui: done
         items: 0%
         blocks: 0%
+        
     compact machines
         gui: done
         items: done
         blocks: 95%
+        
     corpse
         gui: done
+        
     curios
         gui: done
         items: 50%
+        
     cyclic
         gui: done
         items: 60%
         blocks: 20%
+        
     enchantability
         gui: done
         items: done
+        
     fans mod
         items: done
         blocks: 90%
+        
     first person
         gui: done
+        
     immersive engineering
         gui: 0%
         items: mostly done
         blocks: 30%
+        
     immersive petroleum
         items: 0%
         blocks: 100% (not models)
+        
     industrial foregoing
-        gui: done
+        gui: done (but apparently not working?)
         items: mostly done
         blocks: 70%
+        
     inventory hotswap
         gui: done
+        
     inventory tweaks
         gui: done
+        
     j.a.o.p.c.a
+    
         to be evaluated
     just enough items
         gui: done
+        
     just enough resources
         gui: done
+        
     just enough beacons
         gui: done
+        
     mekanism
         gui: done
         items: done
         blocks: 90%
         models: 40%
+        
     mekanism generators
         gui: done
         items: done
         blocks: 90%
         models: 70%
+        
     mekanism tools
         armor: done
         items: 60%
+        
     minecraft
         gui: 98%?
         items: not needed, use faithful in the lower load order
         blocks: 90%
+        
     DS mobeffects
         particles: done
+        
     moving elevators
         gui: done
         blocks: done
+        
     quark
         gui: done
         items: bucket done
         blocks: 45%
+        
     refined storage
         gui: done
         items: 70%
         blocks: 70%
+        
     rf tools base
         gui: 0%
         items: mostly done
         blocks: ore done, else needs redoing
+        
     scaling health
         gui: done
         items: 20%
         blocks: done
+        
     subterraneam wilderness
         blocks: done
+        
     tool leveling
         gui: done
         items: done
         blocks: done
+        
     trash cans
         gui: done
         blocks: done
+        
     trash slot
         gui: done
+        
     upgrade aquatic
         gui: 0%
         items: 0%
         blocks: 1/all
+        
     valhelsia structures
         blocks: mostly done
+        
     waystones
         blocks: mostly done
+        
     xnet
         gui: done
         blocks: needs re-doing
+        
