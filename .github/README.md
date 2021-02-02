@@ -6,18 +6,6 @@ Just an ordinary but definitely not a simple faithful edit. 64 pixels of pure rg
 
 Normal and specullar mapping support is HEAVILY encouraged, POM is optional but also recommended.
 
-<p align="center">
-  <img src="screen2.jpg">
-</p>
-
-<p align="center">
-  <img src="screen3.jpg">
-</p>
-
-<p align="center">
-  <img src="screen4.jpg">
-</p>
-
     Recommended setup:
       Configs (in game):
         Clouds: OFF
@@ -45,6 +33,21 @@ Normal and specullar mapping support is HEAVILY encouraged, POM is optional but 
 
 This pack has some content from and based of https://faithful.team 's Faithful 32 Resource pack, go give them some support!
 Please don't re-release it and feel more than welcome to send screenshots at my shaderlabs channel! https://discord.gg/Znv6AhbQ
+
+
+<p align="center">
+  <img src="screen2.jpg">
+</p>
+
+<p align="center">
+  <img src="screen3.jpg">
+</p>
+
+<p align="center">
+  <img src="screen4.jpg">
+</p>
+
+For more screenshots visit this github's project wiki! 
 
 Mod Support List:
     apotheosis
@@ -180,3 +183,4 @@ Mod Support List:
     xnet
         gui: done
         blocks: needs re-doing
+
