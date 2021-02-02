@@ -1,6 +1,0 @@
-{
-    "parent": "item/template_chestplate",
-    "textures": {
-        "chestplate": "mekanismtools:models/armor/osmium_layer_1"
-    }
-}

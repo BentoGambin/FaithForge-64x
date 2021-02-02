@@ -1,6 +1,0 @@
-{
-  "parent": "item/template_bucket_liquid",
-  "textures": {
-      "liquid": "immersivepetroleum:block/fluid/oil_still"
-  }
-}

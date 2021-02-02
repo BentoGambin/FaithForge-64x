@@ -1,6 +1,0 @@
-{
-    "parent": "item/template_boots",
-    "textures": {
-        "boots": "mekanismtools:models/armor/bronze_layer_1"
-    }
-}

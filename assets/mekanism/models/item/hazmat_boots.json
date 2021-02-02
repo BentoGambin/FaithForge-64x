@@ -1,6 +1,0 @@
-{
-    "parent": "item/template_boots",
-    "textures": {
-        "boots": "mekanism:models/armor/hazmat_layer_1"
-    }
-}

@@ -1,6 +1,0 @@
-{
-    "parent": "item/template_chestplate",
-    "textures": {
-        "chestplate": "mekanismtools:models/armor/bronze_layer_1"
-    }
-}

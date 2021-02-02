@@ -1,6 +1,0 @@
-{
-    "parent": "item/template_leggings",
-    "textures": {
-        "leg": "cyclic:models/armor/crystal_layer_2.png"
-    }
-}

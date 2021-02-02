@@ -1,6 +1,0 @@
-{
-    "parent": "item/template_chestplate",
-    "textures": {
-        "chestplate": "immersiveengineering:models/armor_faraday"
-    }
-}

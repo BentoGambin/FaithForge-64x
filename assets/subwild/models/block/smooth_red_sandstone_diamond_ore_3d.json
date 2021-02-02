@@ -1,7 +1,0 @@
-{
-    "parent":"block/template_ore_shard",
-    "textures": {
-        "stone":"block/red_sandstone_top",
-		"ore": "block/diamond_ore_3d"
-    }
-}

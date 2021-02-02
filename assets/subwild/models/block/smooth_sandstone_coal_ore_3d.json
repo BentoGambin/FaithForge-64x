@@ -1,7 +1,0 @@
-{
-    "parent":"block/template_ore",
-    "textures": {
-        "stone":"block/sandstone_top",
-		"ore": "block/coal_block"
-    }
-}

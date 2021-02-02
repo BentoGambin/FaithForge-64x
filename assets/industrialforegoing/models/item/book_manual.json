@@ -1,7 +1,0 @@
-{
-    "parent": "item/template_book",
-    "textures": {
-        "book": "industrialforegoing:items/book_manual_3d",
-        "feather": "item/no_feather"
-    }
-}

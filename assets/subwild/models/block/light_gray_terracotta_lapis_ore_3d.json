@@ -1,7 +1,0 @@
-{
-    "parent":"block/template_ore_shard",
-    "textures": {
-        "stone":"block/light_gray_terracotta",
-		"ore": "block/lapis_ore_3d"
-    }
-}

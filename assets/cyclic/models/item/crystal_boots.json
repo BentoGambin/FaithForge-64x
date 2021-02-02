@@ -1,6 +1,0 @@
-{
-    "parent": "item/template_boots",
-    "textures": {
-        "boots": "cyclic:models/armor/crystal_layer_1.png"
-    }
-}

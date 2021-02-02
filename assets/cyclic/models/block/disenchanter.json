@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:block/enchanting_table",
-    "textures": {
-        "top": "cyclic:blocks/disenchanter_3d"
-    }
-}

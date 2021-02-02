@@ -1,7 +1,0 @@
-{
-    "parent":"block/template_ore",
-    "textures": {
-        "stone":"block/stone",
-		"ore": "immersiveengineering:block/metal/ore_aluminum_3d"
-    }
-}

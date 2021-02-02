@@ -1,7 +1,0 @@
-{
-	"parent": "valhelsia_structures:block/post",
-	"textures": {
-		"post_side": "block/jungle_log",
-		"post_end": "valhelsia_structures:block/jungle_post_top"
-	}
-}

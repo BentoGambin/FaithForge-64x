@@ -1,7 +1,0 @@
-{
-    "parent":"block/template_ore",
-    "textures": {
-        "stone":"block/red_sandstone",
-		"ore": "block/iron_ore_3d"
-    }
-}

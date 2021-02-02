@@ -1,6 +1,0 @@
-{
-    "parent": "item/template_bucket_liquid",
-    "textures": {
-        "liquid": "industrialforegoing:blocks/fluids/sludge_still"
-    }
-}

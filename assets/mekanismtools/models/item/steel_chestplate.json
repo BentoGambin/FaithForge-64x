@@ -1,6 +1,0 @@
-{
-    "parent": "item/template_chestplate",
-    "textures": {
-        "chestplate": "mekanismtools:models/armor/steel_layer_1"
-    }
-}

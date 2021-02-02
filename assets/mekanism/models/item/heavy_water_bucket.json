@@ -1,6 +1,0 @@
-{
-    "parent": "item/template_bucket_liquid",
-    "textures": {
-        "liquid": "mekanism:liquid/bucket/heavy_water_bucket"
-    }
-}

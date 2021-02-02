@@ -1,6 +1,0 @@
-{
-    "parent": "item/template_leggings",
-    "textures": {
-        "leg": "mekanismtools:models/armor/refined_glowstone_layer_2"
-    }
-}

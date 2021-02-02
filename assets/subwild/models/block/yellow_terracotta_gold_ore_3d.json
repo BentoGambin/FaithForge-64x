@@ -1,7 +1,0 @@
-{
-    "parent":"block/template_ore",
-    "textures": {
-        "stone":"block/yellow_terracotta",
-		"ore": "block/gold_ore_3d"
-    }
-}

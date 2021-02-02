@@ -1,6 +1,0 @@
-{
-    "parent": "item/template_chestplate",
-    "textures": {
-        "chestplate": "mekanism:models/armor/hazmat_layer_1"
-    }
-}
