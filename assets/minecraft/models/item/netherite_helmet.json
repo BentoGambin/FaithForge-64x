@@ -1,6 +1,0 @@
-{
-    "parent": "item/template_helmet",
-    "textures": {
-        "helmet": "models/armor/netherite_layer_1"
-    }
-}

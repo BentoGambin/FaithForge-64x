@@ -1,6 +1,0 @@
-{
-    "parent": "item/template_leggings",
-    "textures": {
-        "leg": "models/armor/netherite_layer_2"
-    }
-}

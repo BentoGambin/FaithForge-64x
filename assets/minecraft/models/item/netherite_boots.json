@@ -1,6 +1,0 @@
-	{
-    "parent": "item/template_boots",
-    "textures": {
-        "boots": "models/armor/netherite_layer_1"
-    }
-}

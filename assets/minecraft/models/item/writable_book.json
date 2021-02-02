@@ -1,7 +1,0 @@
-{
-    "parent": "item/template_book",
-    "textures": {
-        "book": "item/book_3d_writable",
-        "feather": "item/feather"
-    }
-}

@@ -1,6 +1,0 @@
-{
-    "parent": "item/template_chestplate",
-    "textures": {
-        "chestplate": "models/armor/diamond_layer_1"
-    }
-}

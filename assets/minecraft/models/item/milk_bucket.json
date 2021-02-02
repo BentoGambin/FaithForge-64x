@@ -1,6 +1,0 @@
-{
-    "parent": "item/template_bucket_liquid",
-    "textures": {
-        "liquid": "block/bone_block_side"
-    }
-}

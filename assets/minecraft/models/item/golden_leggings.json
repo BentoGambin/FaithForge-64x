@@ -1,6 +1,0 @@
-{
-    "parent": "item/template_leggings",
-    "textures": {
-        "leg": "models/armor/gold_layer_2"
-    }
-}

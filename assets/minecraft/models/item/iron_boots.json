@@ -1,6 +1,0 @@
-{
-    "parent": "item/template_boots",
-    "textures": {
-        "boots": "models/armor/iron_layer_1"
-    }
-}
