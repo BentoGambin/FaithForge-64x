@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"particle": "block/stone_bricks",
+		"particle": "#wall",
 		"wall": "block/stone_bricks"
 	},
 	"elements": [

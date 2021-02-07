@@ -1,6 +1,6 @@
 {
-  "parent": "minecraft:block/template_wall_post",
+  "parent": "minecraft:block/stone_brick_wall_post",
   "textures": {
-    "wall": "minecraft:block/mossy_stone_bricks"
+    "wall": "minecraft:block/mossy_stone_bricks_post"
   }
 }

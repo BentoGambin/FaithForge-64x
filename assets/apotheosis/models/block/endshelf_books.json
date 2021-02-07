@@ -3,9 +3,9 @@
 	"parent": "block/block",
 	"texture_size": [32, 32],
 	"textures": {
-		"3": "apotheosis:blocks/endshelf",
+		"3": "block/end_stone",
 		"4": "apotheosis:blocks/endshelf_3d",
-		"particle": "block/end_stone_bricks"
+		"particle": "apotheosis:blocks/endshelf_frame"
 	},
 	"elements": [
 		{

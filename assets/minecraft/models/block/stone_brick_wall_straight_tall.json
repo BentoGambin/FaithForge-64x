@@ -2,6 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:block/template_wall_post",
 	"textures": {
+		"particle": "#wall",
 		"wall": "block/stone_bricks"
 	},
 	"elements": [
