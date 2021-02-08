@@ -56,4 +56,4 @@ https://github.com/BentoGambin/FaithForge-64x/wiki
 https://github.com/null511?tab=repositories
 
 ### Mod Support List:
-  - [ https://github.com/BentoGambin/FaithForge-64x/blob/master/.github/Mod_List.txt ]
+  - [ https://github.com/BentoGambin/FaithForge-64x/blob/master/.github/Mod_List.md ]
