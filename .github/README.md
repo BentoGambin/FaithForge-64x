@@ -5,7 +5,7 @@
 Just an ordinary but definitely not a simple faithful edit. 64 pixels of pure rgba, and that's squared! per texture!
 
 
-## For instalation head to releases *(on the right)* and get latest *.zip!
+## For instalation head to [releases](https://github.com/BentoGambin/FaithForge-64x/releases) and get latest FaithForge-64x.zip!
 
 Normal and specullar mapping support is HEAVILY encouraged, POM is optional but also recommended.
 
@@ -34,7 +34,7 @@ Normal and specullar mapping support is HEAVILY encouraged, POM is optional but 
   - Chocapic13                    [ https://www.curseforge.com/minecraft/customization/chocapic13-shaders ]
   - Complementary                 [ https://www.curseforge.com/minecraft/customization/complementary-shaders ]
 
-This pack has some content from and based of https://faithful.team 's Faithful 32 Resource pack, go give them some support!
+This pack has some content from and based off of https://faithful.team 's Faithful 32 Resource pack, go give them some support!
 Please don't re-release it and feel more than welcome to send screenshots at my shaderlabs channel! https://discord.gg/Znv6AhbQ
 
 
