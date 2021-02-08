@@ -5,7 +5,7 @@
 Just an ordinary but definitely not a simple faithful edit. 64 pixels of pure rgba, and that's squared! per texture!
 
 
-For instalation head to https://github.com/BentoGambin/FaithForge-64x/wiki/Installation
+For instalation head to releases (on the right) and download latest *.zip!
 
 Normal and specullar mapping support is HEAVILY encouraged, POM is optional but also recommended.
 
@@ -50,7 +50,7 @@ Please don't re-release it and feel more than welcome to send screenshots at my 
   <img src="screen4.jpg">
 </p>
 
-For more screenshots visit this github's project wiki! 
+For more screenshots visit this github's project wiki! https://github.com/BentoGambin/FaithForge-64x/wiki 
 
 Mod Support List:
     https://github.com/BentoGambin/FaithForge-64x/blob/master/.github/Mod_List.txt
