@@ -50,7 +50,7 @@ Please don't re-release it and feel more than welcome to send screenshots at my 
   <img src="screen4.jpg">
 </p>
 
-###For more screenshots visit this github's project wiki! https://github.com/BentoGambin/FaithForge-64x/wiki 
+### For more screenshots visit this github's project wiki! https://github.com/BentoGambin/FaithForge-64x/wiki 
 
 Mod Support List:
     https://github.com/BentoGambin/FaithForge-64x/blob/master/.github/Mod_List.txt
