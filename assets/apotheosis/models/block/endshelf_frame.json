@@ -1,7 +1,6 @@
 {
-    "parent":"block/bookshelf_wood",
+    "parent":"apotheosis:block/block_frame",
     "textures": {
-        "end":"block/end_stone_bricks",
-		"particle": "block/end_stone_bricks"
+        "all":"apotheosis:blocks/endshelf_frame"
     }
 }

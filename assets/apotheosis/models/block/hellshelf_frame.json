@@ -1,7 +1,6 @@
 {
-    "parent":"block/bookshelf_wood",
+    "parent":"apotheosis:block/block_frame",
     "textures": {
-        "end":"apotheosis:blocks/hellshelf_frame",
-		"particle": "apotheosis:blocks/hellshelf_frame"
+        "all":"apotheosis:blocks/hellshelf_frame"
     }
 }
