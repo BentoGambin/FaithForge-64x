@@ -1,7 +1,7 @@
 {
     "multipart": [
 		{	"when":{"snowy":false}, "apply": [
-            { "model": "block/grass_block_none", "weight": 900 },
+            { "model": "block/air", "weight": 900 },
 			{ "model": "block/grass_block_rock", "weight": 2 },
             { "model": "block/grass_block_rock", "weight": 2 , "y": 90 },
             { "model": "block/grass_block_rock", "weight": 2 , "y": 180 },
