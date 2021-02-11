@@ -2,6 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
+        "particle": "block/dirt",
 		"stone": "block/stone"
 	},
 	"elements": [
