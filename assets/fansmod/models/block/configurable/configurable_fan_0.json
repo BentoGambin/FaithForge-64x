@@ -1,6 +1,7 @@
 {
-    "parent": "fansmod:block/configurable_fan",
-    "textures": {
-        "level": "fansmod:block/configurable_fan_side_0"
-    }
+  "parent": "fansmod:block/configurable_fan",
+  "textures": {
+    "level": "fansmod:block/configurable_fan_side_0",
+		"fan": "fansmod:block/overlay_fan_off"
+  }
 }
