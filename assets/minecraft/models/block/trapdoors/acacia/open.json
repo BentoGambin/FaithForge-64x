@@ -1,9 +1,21 @@
 {
-    "parent": "block/trapdoors/template_open",
-    "textures": {
-        "top": "block/acacia_trapdoor",
-		"bottom": "block/acacia_trapdoor",
-		"front": "custom/block/trapdoors/acacia/front",
-		"side": "custom/block/trapdoors/acacia/side"
-    }
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "block/acacia_trapdoor",
+		"texture": "block/acacia_trapdoor"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 13],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#texture"},
+				"east": {"uv": [0, 0, 16, 3], "rotation": 90, "texture": "#texture", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#texture", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 3], "rotation": 90, "texture": "#texture", "cullface": "west"},
+				"up": {"uv": [0, 16, 16, 13], "texture": "#texture", "cullface": "up"},
+				"down": {"uv": [0, 13, 16, 16], "texture": "#texture", "cullface": "down"}
+			}
+		}
+	]
 }

@@ -18,8 +18,9 @@
 		},
 		{
 			"name": "2",
-			"from": [-8, -8, 8],
-			"to": [24, 24, 8],
+			"from": [-8, -8, 8.25],
+			"to": [24, 24, 8.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8.25]},
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#all", "tintindex": 0},
 				"south": {"uv": [0, 0, 16, 16], "texture": "#all", "tintindex": 0}

@@ -3,7 +3,7 @@
 	"parent": "block/block",
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "#default"
+		"particle": "#all"
 	},
 	"elements": [
 		{
@@ -19,9 +19,9 @@
 		},
 		{
 			"name": "2",
-			"from": [-8, -8, 8],
-			"to": [24, 24, 8],
-			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 8, 8]},
+			"from": [-8, -8, 7.625],
+			"to": [24, 24, 7.625],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 8, 7.625]},
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#all", "tintindex": 0},
 				"south": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#all", "tintindex": 0}
