@@ -154,8 +154,9 @@
 		},
 		{
 			"name": "book",
-			"from": [5.5, 0.5, 11],
-			"to": [6.5, 7.5, 16.25],
+			"from": [5.5, 0.5, 10.75],
+			"to": [6.5, 7.5, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 7.75]},
 			"faces": {
 				"east": {"uv": [10.5, 0, 13.125, 3.5], "texture": "#books", "cullface": "south"},
 				"south": {"uv": [9.75, 0, 10.25, 3.5], "texture": "#books", "cullface": "south"},

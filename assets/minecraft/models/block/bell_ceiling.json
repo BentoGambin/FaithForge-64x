@@ -1,0 +1,19 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"bar": "block/dark_oak_planks"
+	},
+	"elements": [
+		{
+			"from": [7, 13, 7],
+			"to": [9, 16, 9],
+			"faces": {
+				"north": {"uv": [4.5, 4.25, 6.5, 7.25], "texture": "#bar"},
+				"east": {"uv": [1.25, 4.5, 3.25, 7.5], "texture": "#bar"},
+				"south": {"uv": [10.75, 4.25, 12.75, 7.25], "texture": "#bar"},
+				"west": {"uv": [8.75, 4.5, 10.75, 7.5], "texture": "#bar"},
+				"up": {"uv": [6.5, 0.75, 8.5, 2.75], "texture": "#bar", "cullface": "up"}
+			}
+		}
+	]
+}
