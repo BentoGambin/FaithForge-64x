@@ -6,7 +6,7 @@ Just an ordinary but definitely not a simple faithful edit. 64 pixels of pure rg
 
 
 ## For instalation head to [releases](https://github.com/BentoGambin/FaithForge-64x/releases) and get latest FaithForge-64x.zip!
-
+### [In-game screenshots](https://github.com/BentoGambin/FaithForge-64x/wiki) 
 Normal and specullar mapping support is HEAVILY encouraged, POM is optional but also recommended.
 
 ### Recommended setup:
@@ -50,10 +50,9 @@ Please don't re-release it and feel more than welcome to send screenshots at my 
   <img src="screen4.jpg">
 </p>
 
-### For more screenshots visit this github's project wiki! 
-https://github.com/BentoGambin/FaithForge-64x/wiki 
-### .zip releases are Only possible because of Null511, go check his work out:
+### For more [screenshots visit this github's project wiki](https://github.com/BentoGambin/FaithForge-64x/wiki)! 
+
+### Zip releases are Only possible because of Null511, go check his work out:
 https://github.com/null511?tab=repositories
 
-### Mod Support List:
-  - [ https://github.com/BentoGambin/FaithForge-64x/blob/master/.github/Mod_List.md ]
+### [Mod Support List](https://github.com/BentoGambin/FaithForge-64x/blob/master/.github/Mod_List.md)
