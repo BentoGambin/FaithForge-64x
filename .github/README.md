@@ -1,7 +1,5 @@
 # FaithForge
-<p align="center">
-  <img src="github.png">
-</p>
+![](https://github.com/BentoGambin/FaithForge-64x/blob/wiki_images/wiki_images/github.png)
 Just an ordinary but definitely not a simple faithful edit. 64 pixels of pure rgba, and that's squared! per texture!
 
 
