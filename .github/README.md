@@ -7,8 +7,8 @@ Just an ordinary but definitely not a simple faithful edit. 64 pixels of pure rg
 ### [In-game screenshots](https://github.com/BentoGambin/FaithForge-64x/wiki) 
 Normal and specullar mapping support is HEAVILY encouraged, POM is optional but also recommended.
 
-### Recommended setup:
-- Configs (in game):
+## Recommended setup:
+### Configs (in game):
   - Clouds: OFF
   - Natural Textures: ON
   - Alternate textures: ON
