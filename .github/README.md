@@ -15,14 +15,10 @@ Normal and specullar mapping support is HEAVILY encouraged, POM is optional but 
   - CTM: Fancy
   - Trees: Smart
 
-### Shader Configs
-  - Chocapic13's & Loop v2:
-    - POM depth Write: false (bugs out some models, mainly some Overlays, apotheosis bookshelves and fansmod ( 90%fixed ), if the last two are not present, it can probably be left as true);
-
 ### Resourcepacks (by load order):
   - 1 - Faifhforge
-  - 2 - New Faithful Items (latest)   [ https://faithful.team/lethalchickens-faithful-items/ ]
-  - 3 - Faithful32 (latest)           [https://faithful.team/tag/faithful/]
+  - 2 - New Faithful Items (optional)(latest)   [ https://faithful.team/lethalchickens-faithful-items/ ]
+  - 3 - Faithful32 (recomended)(latest)         [https://faithful.team/tag/faithful/]
   - 4 - Mod Resources
   - 5 - Vanilla
       
