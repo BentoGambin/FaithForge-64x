@@ -37,11 +37,8 @@ Please don't re-release it and feel more than welcome to send screenshots at my 
 
 
 ![](https://github.com/BentoGambin/FaithForge-64x/blob/wiki_images/wiki_images/screen2.jpg?raw=true)
-
 ![](https://github.com/BentoGambin/FaithForge-64x/blob/wiki_images/wiki_images/screen3.jpg?raw=true)
-
 ![](https://github.com/BentoGambin/FaithForge-64x/blob/wiki_images/wiki_images/screen4.jpg?raw=true)
-
 ### For more [screenshots visit this github's project wiki](https://github.com/BentoGambin/FaithForge-64x/wiki)! 
 
 ### Zip releases are Only possible because of Null511, go check his work out:
