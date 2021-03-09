@@ -40,7 +40,7 @@ Mod Support List:
  - cyclic
    - gui: done
    - items: 60%
-   - blocks: 20%
+   - blocks: 75%
  - enchantability
    - gui: done
    - items: done
@@ -77,18 +77,18 @@ Mod Support List:
    - gui: done
    - items: done
    - blocks: 90%
-   - models: 40%
+   - models: 70%
  - mekanism generators
    - gui: done
    - items: done
    - blocks: 90%
-   - models: 70%
+   - models: done
  - mekanism tools
-   - armor: done
-   - items: 60%
+   - armor: 80%
+   - items: 50%
  - minecraft
    - gui: 98%?
-   - items: not needed, use faithful in the lower load order
+   - items: thanks to Espen, now custom items PBR is on the to-do list!
    - blocks: 90%
  - DS mobeffects
    - particles: done
