@@ -38,17 +38,11 @@ This pack has some content from and based off of https://faithful.team 's Faithf
 Please don't re-release it and feel more than welcome to send screenshots at my shaderlabs channel! https://discord.gg/Znv6AhbQ
 
 
-<p align="center">
-  <img src="screen2.jpg">
-</p>
+![](https://github.com/BentoGambin/FaithForge-64x/blob/wiki_images/wiki_images/screen2.jpg?raw=true)
 
-<p align="center">
-  <img src="screen3.jpg">
-</p>
+![](https://github.com/BentoGambin/FaithForge-64x/blob/wiki_images/wiki_images/screen3.jpg?raw=true)
 
-<p align="center">
-  <img src="screen4.jpg">
-</p>
+![](https://github.com/BentoGambin/FaithForge-64x/blob/wiki_images/wiki_images/screen4.jpg?raw=true)
 
 ### For more [screenshots visit this github's project wiki](https://github.com/BentoGambin/FaithForge-64x/wiki)! 
 
