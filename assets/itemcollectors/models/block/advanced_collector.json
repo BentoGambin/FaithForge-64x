@@ -1,0 +1,6 @@
+{
+  "parent": "itemcollectors:block/basic_collector",
+  "textures": {
+    "all": "itemcollectors:advanced_collector"
+  }
+}

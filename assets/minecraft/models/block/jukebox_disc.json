@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/cube_top",
+	"textures": {
+		"top": "block/jukebox_top_disc",
+		"side": "block/jukebox_side"
+	}
+}

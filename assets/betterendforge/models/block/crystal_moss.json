@@ -1,0 +1,8 @@
+{
+    "parent": "block/template_side_overlay",
+    "textures": {
+        "block": "block/end_stone",
+        "overlay": "betterendforge:block/crystal_moss_side_overlay",
+        "top": "betterendforge:block/crystal_moss_top"
+    }
+}
