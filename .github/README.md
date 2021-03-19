@@ -14,13 +14,6 @@ Normal and specullar mapping support is HEAVILY encouraged, POM is optional but 
   - Alternate textures: ON
   - CTM: Fancy
   - Trees: Smart
-
-### Resourcepacks (by load order):
-  - 1 - Faifhforge
-  - 2 - New Faithful Items (optional)(latest)   [ https://faithful.team/lethalchickens-faithful-items/ ]
-  - 3 - Faithful32 (recomended)(latest)         [https://faithful.team/tag/faithful/]
-  - 4 - Mod Resources
-  - 5 - Vanilla
       
 ### Shaderpacks (prefered):
   - Kappa                         [ https://rre36.com/kappa-shader ]
