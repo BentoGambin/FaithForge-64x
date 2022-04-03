@@ -1,0 +1,24 @@
+{
+    "multipart": [
+        {   "apply": [
+            { "model": "block/copper_ore_3d" },
+            { "model": "block/copper_ore_3d", "x": 90},
+            { "model": "block/copper_ore_3d", "x": 180 },
+            { "model": "block/copper_ore_3d", "x": 270 },
+            { "model": "block/copper_ore_3d", "y": 90},
+            { "model": "block/copper_ore_3d", "y": 90, "x": 90},
+            { "model": "block/copper_ore_3d", "y": 90, "x": 180},
+            { "model": "block/copper_ore_3d", "y": 90, "x": 270},
+            { "model": "block/copper_ore_3d", "y": 180, "x": 90},
+            { "model": "block/copper_ore_3d", "y": 180, "x": 180},
+            { "model": "block/copper_ore_3d", "y": 180, "x": 270},
+            { "model": "block/copper_ore_3d", "y": 180 },
+            { "model": "block/copper_ore_3d", "y": 270, "x": 90},
+            { "model": "block/copper_ore_3d", "y": 270, "x": 180},
+            { "model": "block/copper_ore_3d", "y": 270, "x": 270},
+            { "model": "block/copper_ore_3d", "y": 270 }
+		]
+    	},
+        {   "apply": { "model": "block/stone"}}
+    ]
+}
